@@ -7,11 +7,11 @@ Data files are stored in the data folder. Scripts for generating the datasets ar
 
 ### Datasets
 | Name | Download | Preview | Script |
-| --- | :---: | :---: | :--: |
-| Norwegian regions | [csv](data/csv/norwegian_regions.csv) [pickle](data/csv/norwegian_regions.csv) | [data/csv/norwegian_regions.csv](data/csv/norwegian_regions.csv) | script |
-| Norwegian regions - changes 2019/2020 | [csv](data/csv/norwegian_regions.csv) [pickle](data/csv/norwegian_regions.csv) | [data/csv/norwegian_regions.csv](data/csv/norwegian_regions.csv) | script |
-| Population for Norwegian regions | [csv](data/csv/norwegian_regions.csv) [pickle](data/csv/norwegian_regions.csv) | [data/csv/norwegian_regions.csv](data/csv/norwegian_regions.csv) | script |
-| Population 2020 for Norwegian regions | [csv](data/csv/norwegian_regions.csv) [pickle](data/csv/norwegian_regions.csv) | [data/csv/norwegian_regions.csv](data/csv/norwegian_regions.csv) | script |
+| --- | :---: | --- | :--: |
+| Norwegian regions | [csv](https://raw.githubusercontent.com/BergensTidende/bord4-data/master/data/csv/norwegian_regions.csv) [pickle](https://raw.githubusercontent.com/BergensTidende/bord4-data/master/data/pkl/norwegian_population.pkl) | [norwegian_regions.csv](data/csv/norwegian_regions.csv) | [script](scripts/regions_and_population.py) |
+| Norwegian regions - changes 2019/2020 | [csv](https://raw.githubusercontent.com/BergensTidende/bord4-data/master/data/csv/norwegian_regions_changes.csv) [pickle](https://raw.githubusercontent.com/BergensTidende/bord4-data/master/data/pkl/norwegian_regions_changes.pkl) | [norwegian_regions_changes.csv](data/csv/norwegian_regions_changes.csv) | [script](scripts/region_changes.py) |
+| Population 2020 for Norwegian regions | [csv](https://raw.githubusercontent.com/BergensTidende/bord4-data/master/data/csv/norwegian_population_2020.csv) [pickle](https://raw.githubusercontent.com/BergensTidende/bord4-data/master/data/csv/norwegian_population_2020.csv) | [norwegian_regions.csv](data/csv/norwegian_population_2020.csv) | [script](scripts/regions_and_population.py) |
+| Population for Norwegian regions | [csv](https://raw.githubusercontent.com/BergensTidende/bord4-data/master/data/csv/norwegian_population.csv) [pickle](https://raw.githubusercontent.com/BergensTidende/bord4-data/master/data/pkl/norwegian_population.pkl) | [norwegian_regions.csv](data/csv/norwegian_population.csv) | [script](scripts/regions_and_population.py) |
 
 ### Map files
 | Name | Download | Preview |
@@ -21,11 +21,11 @@ Data files are stored in the data folder. Scripts for generating the datasets ar
 To get a dataframe of all norwegian regions do the following
 
 ```
-df = pd.read_pickle(<link_to_data.pkl>)
+df = pd.read_pickle("https://raw.githubusercontent.com/BergensTidende/bord4-data/master/data/pkl/norwegian_population.pkl")
 ```
 or
 ```
-df = pd.read_csv(<link_to_data.pkl>)
+df = pd.read_csv("https://raw.githubusercontent.com/BergensTidende/bord4-data/master/data/csv/norwegian_population.csv")
 ```
 
 ## Sources
