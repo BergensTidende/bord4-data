@@ -17,22 +17,13 @@ pip:
 
 ## Run scripts for generating data files
 data:
-	pipenv run jupyter lab
+	pipenv run python scripts/region_changes.py
+	pipenv run python scripts/regions_and_population.py
 
 ## Delete all compiled Python files
 clean:
 	find . -type f -name "*.py[co]" -delete
 	find . -type d -name "__pycache__" -delete
-
-## Lint using flake8
-lint:
-	flake8 src
-
-#################################################################################
-# PROJECT RULES                                                                 #
-#################################################################################
-
-
 
 #################################################################################
 # Self Documenting Commands                                                     #

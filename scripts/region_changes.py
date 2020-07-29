@@ -8,6 +8,8 @@
 #
 # Data source: https://www.kartverket.no/kommunereform/tekniske-endringer/kommune--og-regionsendringer-2020/
 #
+import os
+
 import pandas as pd
 
 PROJECT_DIRECTORY = os.path.realpath(os.path.curdir)
