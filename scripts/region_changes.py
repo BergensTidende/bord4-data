@@ -21,5 +21,7 @@ df["Kommunenavn 2019"] = df["Kommunenavn 2019"].str.title().replace("Og", "og", 
 df["Fylkesnavn 2020"] = df["Fylkesnavn 2020"].str.title().replace("Og", "og", regex=True)
 df["Kommunenavn 2020"] = df["Kommunenavn 2020"].str.title().replace("Og", "og", regex=True)
 
+df.columns = ['county_id_2019', 'county_2019', 'municipality_id_2019', 'municipality_2019', 'county_id_2020', 'county_2020', 'municipality_id_2020', 'municipality_2020']
+
 df.to_csv(os.path.join(PROJECT_DIRECTORY, "data/csv/", "norwegian_regions_changes.csv"), index=False)
 df.to_pickle(os.path.join(PROJECT_DIRECTORY, "data/pkl/", "norwegian_regions_changes.pkl"))
