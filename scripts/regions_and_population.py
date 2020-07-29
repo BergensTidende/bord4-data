@@ -155,15 +155,20 @@ def get_population():
     df = df_districts.append(df_municipalities, ignore_index=True)
     df = df.append(df_counties, ignore_index=True)
 
-    # Join in municipality and county names
-    df = df.merge(df[df.municipality != ""][["municipality_id", "municipality"]].drop_duplicates(), on="municipality_id")
+    df_unique_counties = df[df.county != ""][["county_id", "county"]].drop_duplicates().copy()
+    df_unique_municipalities = df[df.municipality != ""][["municipality_id", "municipality"]].drop_duplicates().copy()
+
+    df = df.merge(df_unique_municipalities, on="municipality_id", how="left")
     df = df.drop("municipality_x", axis=1).rename(columns={'municipality_y':'municipality'})
-    df = df.merge(df[df.county != ""][["county_id", "county"]].drop_duplicates(), on="county_id")
+    df = df.merge(df_unique_counties, on="county_id", how="left")
     df = df.drop("county_x", axis=1).rename(columns={'county_y':'county'})
     df = df[["region_id", "region", "ssb_id", "ssb", "district_id", "district", "municipality_id", "municipality", "county_id", "county", "year", "population"]]
 
     return df
 
+##
+# Save the dataframe in different versions and filetypes
+#
 
 df = get_population()
 
