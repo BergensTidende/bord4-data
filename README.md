@@ -1,5 +1,5 @@
 # Bord4 data
-Collection of datasets and map files used by data journalists at [Bergens Tidendes](https://www.bt.no).
+Collection of datasets and map files used by data journalists at [Bergens Tidende](https://www.bt.no).
 
 Data files are stored in the data folder. Scripts for generating the datasets are found in the script folder.
 
@@ -19,7 +19,7 @@ Data files are stored in the data folder. Scripts for generating the datasets ar
 | --- | :---: | :---: |
 
 ### Example
-To get a dataframe of all norwegian regions do the following
+To get a dataframe of all Norwegian regions do the following
 
 ```
 df = pd.read_pickle("https://raw.githubusercontent.com/BergensTidende/bord4-data/master/data/pkl/norwegian_population.pkl")
@@ -66,12 +66,12 @@ make data
 
 ## The team
 
-Bord4 is the data jouranslits and news deveopers at Bergens Tidende. Bord is Norwegian for table, so it translates to table 4. Many aeons ago bord4 sat around the fourth table in a corridor.
+Bord4 are the data journalists and editorial developers at Bergens Tidende. _Bord_ is Norwegian for table, so it translates to table 4. Many aeons ago bord4 sat around the fourth table in a corridor.
 
 * [Tove B. Knutsen](https://twitter.com/tovek)
 * [Lasse Lambrechts](https://twitter.com/lambrechts)
 * [Anders Grimsrud Eriksen ](https://twitter.com/anderser)
-* [Philipp Julius Bock](https://twitter.com/bockph)
+* [Philipp Bock](https://twitter.com/bockph)
 * [Halvard Alvheim Vegum](https://twitter.com/Havegum)
 
 ## Contact
