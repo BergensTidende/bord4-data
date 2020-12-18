@@ -14,7 +14,7 @@ import pandas as pd
 
 PROJECT_DIRECTORY = os.path.realpath(os.path.curdir)
 
-df = pd.read_excel("https://www.kartverket.no/globalassets/kommunereform/fylker-kommuner-2019-2020-alle.xlsx", converters={
+df = pd.read_excel("https://kartverket.no/globalassets/til-lands/kommunereform/fylker-kommuner-2019-2020-alle.xlsx", converters={
     'Fylkesnr. 2019': '{:0>2}'.format, 'Kommunenr. 2019': '{:0>4}'.format, 'Fylkesnr. 2020': '{:0>2}'.format, 'Kommunenr. 2020': '{:0>4}'.format})
 df["Fylkesnavn 2019"] = df["Fylkesnavn 2019"].str.title().replace("Og", "og", regex=True)
 df["Kommunenavn 2019"] = df["Kommunenavn 2019"].str.title().replace("Og", "og", regex=True)

@@ -109,6 +109,7 @@ def normalize_dataframe(df):
         'Snåase - Snåsa': 'Snåsa',
         'Aarborte - Hattfjelldal': 'Hattfjelldal',
         'Fauske - Fuossko': 'Fauske',
+        'Fauske - Fuosko': 'Fauske',
         'Hamarøy - Hábmer': 'Hamarøy',
         'Divtasvuodna - Tysfjord': 'Tysfjord',
         'Divtasvuodna Tysfjord': 'Tysfjord',
