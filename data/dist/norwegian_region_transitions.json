@@ -1,0 +1,3476 @@
+[
+  {
+    "from_year": "2020",
+    "to_year": "2021",
+    "level": "county",
+    "from_id": "01",
+    "to_id": "30",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/fylker_2020_2021.json"
+  },
+  {
+    "from_year": "2020",
+    "to_year": "2021",
+    "level": "county",
+    "from_id": "02",
+    "to_id": "30",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/fylker_2020_2021.json"
+  },
+  {
+    "from_year": "2020",
+    "to_year": "2021",
+    "level": "county",
+    "from_id": "04",
+    "to_id": "34",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/fylker_2020_2021.json"
+  },
+  {
+    "from_year": "2020",
+    "to_year": "2021",
+    "level": "county",
+    "from_id": "05",
+    "to_id": "34",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/fylker_2020_2021.json"
+  },
+  {
+    "from_year": "2020",
+    "to_year": "2021",
+    "level": "county",
+    "from_id": "06",
+    "to_id": "33",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/fylker_2020_2021.json"
+  },
+  {
+    "from_year": "2020",
+    "to_year": "2021",
+    "level": "county",
+    "from_id": "07",
+    "to_id": "38",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/fylker_2020_2021.json"
+  },
+  {
+    "from_year": "2020",
+    "to_year": "2021",
+    "level": "county",
+    "from_id": "08",
+    "to_id": "38",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/fylker_2020_2021.json"
+  },
+  {
+    "from_year": "2020",
+    "to_year": "2021",
+    "level": "county",
+    "from_id": "09",
+    "to_id": "42",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/fylker_2020_2021.json"
+  },
+  {
+    "from_year": "2020",
+    "to_year": "2021",
+    "level": "county",
+    "from_id": "10",
+    "to_id": "42",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/fylker_2020_2021.json"
+  },
+  {
+    "from_year": "2020",
+    "to_year": "2021",
+    "level": "county",
+    "from_id": "12",
+    "to_id": "46",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/fylker_2020_2021.json"
+  },
+  {
+    "from_year": "2020",
+    "to_year": "2021",
+    "level": "county",
+    "from_id": "14",
+    "to_id": "46",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/fylker_2020_2021.json"
+  },
+  {
+    "from_year": "2020",
+    "to_year": "2021",
+    "level": "county",
+    "from_id": "19",
+    "to_id": "54",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/fylker_2020_2021.json"
+  },
+  {
+    "from_year": "2020",
+    "to_year": "2021",
+    "level": "county",
+    "from_id": "20",
+    "to_id": "54",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/fylker_2020_2021.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "county",
+    "from_id": "01",
+    "to_id": "31",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/fylker_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "county",
+    "from_id": "02",
+    "to_id": "32",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/fylker_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "county",
+    "from_id": "06",
+    "to_id": "33",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/fylker_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "county",
+    "from_id": "07",
+    "to_id": "39",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/fylker_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "county",
+    "from_id": "08",
+    "to_id": "40",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/fylker_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "county",
+    "from_id": "19",
+    "to_id": "55",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/fylker_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "county",
+    "from_id": "20",
+    "to_id": "56",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/fylker_2021_2025.json"
+  },
+  {
+    "from_year": "2024",
+    "to_year": "2025",
+    "level": "county",
+    "from_id": "30",
+    "to_id": "31",
+    "change_type": "split",
+    "source_file": "data/raw/region-transitions/fylker_2024_2025.json"
+  },
+  {
+    "from_year": "2024",
+    "to_year": "2025",
+    "level": "county",
+    "from_id": "30",
+    "to_id": "32",
+    "change_type": "split",
+    "source_file": "data/raw/region-transitions/fylker_2024_2025.json"
+  },
+  {
+    "from_year": "2024",
+    "to_year": "2025",
+    "level": "county",
+    "from_id": "30",
+    "to_id": "33",
+    "change_type": "split",
+    "source_file": "data/raw/region-transitions/fylker_2024_2025.json"
+  },
+  {
+    "from_year": "2024",
+    "to_year": "2025",
+    "level": "county",
+    "from_id": "38",
+    "to_id": "39",
+    "change_type": "split",
+    "source_file": "data/raw/region-transitions/fylker_2024_2025.json"
+  },
+  {
+    "from_year": "2024",
+    "to_year": "2025",
+    "level": "county",
+    "from_id": "38",
+    "to_id": "40",
+    "change_type": "split",
+    "source_file": "data/raw/region-transitions/fylker_2024_2025.json"
+  },
+  {
+    "from_year": "2024",
+    "to_year": "2025",
+    "level": "county",
+    "from_id": "54",
+    "to_id": "55",
+    "change_type": "split",
+    "source_file": "data/raw/region-transitions/fylker_2024_2025.json"
+  },
+  {
+    "from_year": "2024",
+    "to_year": "2025",
+    "level": "county",
+    "from_id": "54",
+    "to_id": "56",
+    "change_type": "split",
+    "source_file": "data/raw/region-transitions/fylker_2024_2025.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0101",
+    "to_id": "3001",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0104",
+    "to_id": "3002",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0105",
+    "to_id": "3003",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0106",
+    "to_id": "3004",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0111",
+    "to_id": "3011",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0118",
+    "to_id": "3012",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0119",
+    "to_id": "3013",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0127",
+    "to_id": "3015",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0128",
+    "to_id": "3016",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0135",
+    "to_id": "3017",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0137",
+    "to_id": "3419",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0211",
+    "to_id": "3019",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0214",
+    "to_id": "3021",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0215",
+    "to_id": "3022",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0216",
+    "to_id": "3023",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0219",
+    "to_id": "3024",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0220",
+    "to_id": "3025",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0228",
+    "to_id": "3027",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0229",
+    "to_id": "3028",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0230",
+    "to_id": "3029",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0233",
+    "to_id": "3031",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0234",
+    "to_id": "3032",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0235",
+    "to_id": "3033",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0236",
+    "to_id": "3034",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0237",
+    "to_id": "3035",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0238",
+    "to_id": "3036",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0239",
+    "to_id": "3037",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0402",
+    "to_id": "3401",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0403",
+    "to_id": "3403",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0412",
+    "to_id": "3411",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0415",
+    "to_id": "3412",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0417",
+    "to_id": "3413",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0418",
+    "to_id": "3414",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0419",
+    "to_id": "3415",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0420",
+    "to_id": "3416",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0423",
+    "to_id": "3417",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0425",
+    "to_id": "3418",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0426",
+    "to_id": "3419",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0427",
+    "to_id": "3420",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0428",
+    "to_id": "3421",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0429",
+    "to_id": "3422",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0430",
+    "to_id": "3423",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0432",
+    "to_id": "3424",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0434",
+    "to_id": "3425",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0436",
+    "to_id": "3426",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0437",
+    "to_id": "3427",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0438",
+    "to_id": "3428",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0439",
+    "to_id": "3429",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0441",
+    "to_id": "3430",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0501",
+    "to_id": "3405",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0502",
+    "to_id": "3407",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0511",
+    "to_id": "3431",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0512",
+    "to_id": "3432",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0513",
+    "to_id": "3433",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0514",
+    "to_id": "3434",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0515",
+    "to_id": "3435",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0516",
+    "to_id": "3436",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0517",
+    "to_id": "3437",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0519",
+    "to_id": "3438",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0520",
+    "to_id": "3439",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0521",
+    "to_id": "3440",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0522",
+    "to_id": "3441",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0528",
+    "to_id": "3442",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0529",
+    "to_id": "3443",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0532",
+    "to_id": "3053",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0533",
+    "to_id": "3054",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0534",
+    "to_id": "3446",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0536",
+    "to_id": "3447",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0538",
+    "to_id": "3448",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0540",
+    "to_id": "3449",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0541",
+    "to_id": "3450",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0542",
+    "to_id": "3451",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0543",
+    "to_id": "3452",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0544",
+    "to_id": "3453",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0545",
+    "to_id": "3454",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0602",
+    "to_id": "3005",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0604",
+    "to_id": "3006",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0605",
+    "to_id": "3007",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0612",
+    "to_id": "3038",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0615",
+    "to_id": "3039",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0616",
+    "to_id": "3034",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0617",
+    "to_id": "3041",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0618",
+    "to_id": "3042",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0619",
+    "to_id": "3043",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0620",
+    "to_id": "3044",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0621",
+    "to_id": "3045",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0622",
+    "to_id": "3046",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0623",
+    "to_id": "3047",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0624",
+    "to_id": "3048",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0626",
+    "to_id": "3049",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0631",
+    "to_id": "3050",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0632",
+    "to_id": "3051",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0633",
+    "to_id": "3052",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0701",
+    "to_id": "3801",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0702",
+    "to_id": "3802",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0704",
+    "to_id": "3803",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0709",
+    "to_id": "3805",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0710",
+    "to_id": "3804",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0805",
+    "to_id": "3806",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0806",
+    "to_id": "3807",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0807",
+    "to_id": "3808",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0811",
+    "to_id": "3812",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0814",
+    "to_id": "3813",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0815",
+    "to_id": "3814",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0817",
+    "to_id": "3815",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0819",
+    "to_id": "3816",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0826",
+    "to_id": "3818",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0827",
+    "to_id": "3819",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0828",
+    "to_id": "3820",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0829",
+    "to_id": "3821",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0830",
+    "to_id": "3822",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0831",
+    "to_id": "3823",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0833",
+    "to_id": "3824",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0834",
+    "to_id": "3825",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0901",
+    "to_id": "4201",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0904",
+    "to_id": "4202",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0906",
+    "to_id": "4203",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0911",
+    "to_id": "4211",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0912",
+    "to_id": "4212",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0914",
+    "to_id": "4213",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0919",
+    "to_id": "4214",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0926",
+    "to_id": "4215",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0928",
+    "to_id": "4216",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0929",
+    "to_id": "4217",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0935",
+    "to_id": "4218",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0937",
+    "to_id": "4219",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0938",
+    "to_id": "4220",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0940",
+    "to_id": "4221",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "0941",
+    "to_id": "4222",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1001",
+    "to_id": "4204",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1003",
+    "to_id": "4206",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1004",
+    "to_id": "4207",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1014",
+    "to_id": "4223",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1026",
+    "to_id": "4224",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1029",
+    "to_id": "4205",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1032",
+    "to_id": "4225",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1034",
+    "to_id": "4226",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1037",
+    "to_id": "4227",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1046",
+    "to_id": "4228",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1102",
+    "to_id": "1108",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1201",
+    "to_id": "4601",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1211",
+    "to_id": "4611",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1216",
+    "to_id": "4612",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1219",
+    "to_id": "4613",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1221",
+    "to_id": "4614",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1222",
+    "to_id": "4615",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1223",
+    "to_id": "4616",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1224",
+    "to_id": "4617",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1231",
+    "to_id": "4618",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1232",
+    "to_id": "4619",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1233",
+    "to_id": "4620",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1235",
+    "to_id": "4621",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1238",
+    "to_id": "4622",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1242",
+    "to_id": "4623",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1243",
+    "to_id": "3430",
+    "change_type": "merge",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1244",
+    "to_id": "4625",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1247",
+    "to_id": "4627",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1251",
+    "to_id": "4628",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1252",
+    "to_id": "4629",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1253",
+    "to_id": "4630",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1259",
+    "to_id": "4626",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1264",
+    "to_id": "4632",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1265",
+    "to_id": "4633",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1266",
+    "to_id": "4634",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1411",
+    "to_id": "4635",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1412",
+    "to_id": "4636",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1413",
+    "to_id": "4637",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1416",
+    "to_id": "4638",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1417",
+    "to_id": "4639",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1420",
+    "to_id": "4640",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1421",
+    "to_id": "4641",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1422",
+    "to_id": "4642",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1424",
+    "to_id": "4643",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1426",
+    "to_id": "4644",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1428",
+    "to_id": "4645",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1429",
+    "to_id": "4646",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1438",
+    "to_id": "4648",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1445",
+    "to_id": "4650",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1449",
+    "to_id": "4651",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1502",
+    "to_id": "1506",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1504",
+    "to_id": "1507",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1519",
+    "to_id": "1577",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1567",
+    "to_id": "5061",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1601",
+    "to_id": "5001",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1617",
+    "to_id": "5056",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1620",
+    "to_id": "5014",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1621",
+    "to_id": "5057",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1630",
+    "to_id": "5058",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1633",
+    "to_id": "5020",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1634",
+    "to_id": "5021",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1635",
+    "to_id": "5022",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1640",
+    "to_id": "5025",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1644",
+    "to_id": "5026",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1648",
+    "to_id": "5027",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1653",
+    "to_id": "5028",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1657",
+    "to_id": "5029",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1663",
+    "to_id": "5031",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1664",
+    "to_id": "5032",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1665",
+    "to_id": "5033",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1702",
+    "to_id": "5006",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1703",
+    "to_id": "5007",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1711",
+    "to_id": "5034",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1714",
+    "to_id": "5035",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1717",
+    "to_id": "5036",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1719",
+    "to_id": "5037",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1721",
+    "to_id": "5038",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1738",
+    "to_id": "5042",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1740",
+    "to_id": "5044",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1742",
+    "to_id": "5045",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1743",
+    "to_id": "5046",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1744",
+    "to_id": "5047",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1749",
+    "to_id": "5049",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1755",
+    "to_id": "5052",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1756",
+    "to_id": "5053",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1805",
+    "to_id": "1806",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1852",
+    "to_id": "5412",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1902",
+    "to_id": "5401",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1903",
+    "to_id": "5402",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1911",
+    "to_id": "5411",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1917",
+    "to_id": "5413",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1919",
+    "to_id": "5414",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1922",
+    "to_id": "5416",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1923",
+    "to_id": "5417",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1924",
+    "to_id": "5418",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1925",
+    "to_id": "5419",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1926",
+    "to_id": "5420",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1933",
+    "to_id": "5422",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1936",
+    "to_id": "5423",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1938",
+    "to_id": "5424",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1941",
+    "to_id": "5427",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1942",
+    "to_id": "5428",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "1943",
+    "to_id": "5429",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "2002",
+    "to_id": "5404",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "2003",
+    "to_id": "5405",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "2004",
+    "to_id": "5406",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "2012",
+    "to_id": "5403",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "2014",
+    "to_id": "5432",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "2015",
+    "to_id": "5433",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "2018",
+    "to_id": "5434",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "2019",
+    "to_id": "5435",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "2022",
+    "to_id": "5438",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "2023",
+    "to_id": "5439",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "2024",
+    "to_id": "5440",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "2028",
+    "to_id": "5443",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2017",
+    "to_year": "2021",
+    "level": "municipality",
+    "from_id": "2030",
+    "to_id": "5444",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2017_2021.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "1507",
+    "to_id": "1508",
+    "change_type": "split",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "1507",
+    "to_id": "1580",
+    "change_type": "split",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3001",
+    "to_id": "3101",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3002",
+    "to_id": "3103",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3003",
+    "to_id": "3105",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3004",
+    "to_id": "3107",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3005",
+    "to_id": "3301",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3006",
+    "to_id": "3303",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3007",
+    "to_id": "3305",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3011",
+    "to_id": "3110",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3012",
+    "to_id": "3124",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3013",
+    "to_id": "3122",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3014",
+    "to_id": "3118",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3015",
+    "to_id": "3116",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3016",
+    "to_id": "3120",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3017",
+    "to_id": "3112",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3018",
+    "to_id": "3114",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3019",
+    "to_id": "3216",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3020",
+    "to_id": "3207",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3021",
+    "to_id": "3218",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3022",
+    "to_id": "3214",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3023",
+    "to_id": "3212",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3024",
+    "to_id": "3201",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3025",
+    "to_id": "3203",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3027",
+    "to_id": "3224",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3028",
+    "to_id": "3220",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3029",
+    "to_id": "3222",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3030",
+    "to_id": "3205",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3031",
+    "to_id": "3232",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3032",
+    "to_id": "3230",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3033",
+    "to_id": "3209",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3034",
+    "to_id": "3228",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3035",
+    "to_id": "3240",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3036",
+    "to_id": "3238",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3037",
+    "to_id": "3242",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3038",
+    "to_id": "3310",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3039",
+    "to_id": "3320",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3040",
+    "to_id": "3322",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3041",
+    "to_id": "3324",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3042",
+    "to_id": "3326",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3043",
+    "to_id": "3328",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3044",
+    "to_id": "3330",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3045",
+    "to_id": "3332",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3046",
+    "to_id": "3318",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3047",
+    "to_id": "3316",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3048",
+    "to_id": "3314",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3049",
+    "to_id": "3312",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3050",
+    "to_id": "3334",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3051",
+    "to_id": "3336",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3052",
+    "to_id": "3338",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3053",
+    "to_id": "3236",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3054",
+    "to_id": "3234",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3801",
+    "to_id": "3901",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3802",
+    "to_id": "3903",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3803",
+    "to_id": "3905",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3804",
+    "to_id": "3907",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3805",
+    "to_id": "3909",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3806",
+    "to_id": "4001",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3807",
+    "to_id": "4003",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3808",
+    "to_id": "4005",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3811",
+    "to_id": "3911",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3812",
+    "to_id": "4010",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3813",
+    "to_id": "4012",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3814",
+    "to_id": "4014",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3815",
+    "to_id": "4016",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3816",
+    "to_id": "4018",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3817",
+    "to_id": "4020",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3818",
+    "to_id": "4026",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3819",
+    "to_id": "4024",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3820",
+    "to_id": "4022",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3821",
+    "to_id": "4028",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3822",
+    "to_id": "4030",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3823",
+    "to_id": "4032",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3824",
+    "to_id": "4034",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "3825",
+    "to_id": "4036",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5401",
+    "to_id": "5501",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5402",
+    "to_id": "5503",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5403",
+    "to_id": "5601",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5404",
+    "to_id": "5634",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5405",
+    "to_id": "5607",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5406",
+    "to_id": "5603",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5411",
+    "to_id": "5510",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5412",
+    "to_id": "5512",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5413",
+    "to_id": "5514",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5414",
+    "to_id": "5516",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5415",
+    "to_id": "5518",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5416",
+    "to_id": "5520",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5417",
+    "to_id": "5522",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5418",
+    "to_id": "5524",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5419",
+    "to_id": "5526",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5420",
+    "to_id": "5528",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5421",
+    "to_id": "5530",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5422",
+    "to_id": "5532",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5423",
+    "to_id": "5534",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5424",
+    "to_id": "5536",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5425",
+    "to_id": "5538",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5426",
+    "to_id": "5540",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5427",
+    "to_id": "5542",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5428",
+    "to_id": "5544",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5429",
+    "to_id": "5546",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5430",
+    "to_id": "5612",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5432",
+    "to_id": "5614",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5433",
+    "to_id": "5616",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5434",
+    "to_id": "5618",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5435",
+    "to_id": "5620",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5436",
+    "to_id": "5622",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5437",
+    "to_id": "5610",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5438",
+    "to_id": "5624",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5439",
+    "to_id": "5626",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5440",
+    "to_id": "5630",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5441",
+    "to_id": "5628",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5442",
+    "to_id": "5636",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5443",
+    "to_id": "5632",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  },
+  {
+    "from_year": "2021",
+    "to_year": "2025",
+    "level": "municipality",
+    "from_id": "5444",
+    "to_id": "5605",
+    "change_type": "renumbered",
+    "source_file": "data/raw/region-transitions/kommuner_2021_2025.json"
+  }
+]

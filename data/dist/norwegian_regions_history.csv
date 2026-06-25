@@ -1,0 +1,1543 @@
+nivå,regionnummer,regionnavn,fylkesnummer,fylkesnavn,gyldig_fra,gyldig_til,er_gjeldende
+fylke,01,Smaalenenes amt,01,Smaalenenes amt,1842-01-01,1919-01-01,false
+fylke,01,Østfold,01,Østfold,1919-01-01,2020-01-01,false
+fylke,02,Akershus amt,02,Akershus amt,1842-01-01,1919-01-01,false
+fylke,02,Akershus,02,Akershus,1919-01-01,2020-01-01,false
+fylke,03,Christiania amt,03,Christiania amt,1842-01-01,1919-01-01,false
+fylke,03,Oslo,03,Oslo,1919-01-01,,true
+fylke,04,Hedemarkens amt,04,Hedemarkens amt,1842-01-01,1919-01-01,false
+fylke,04,Hedmark,04,Hedmark,1919-01-01,2020-01-01,false
+fylke,05,Kristians amt,05,Kristians amt,1842-01-01,1919-01-01,false
+fylke,05,Oppland,05,Oppland,1919-01-01,2020-01-01,false
+fylke,06,Buskerud amt,06,Buskerud amt,1842-01-01,1919-01-01,false
+fylke,06,Buskerud,06,Buskerud,1919-01-01,2020-01-01,false
+fylke,07,Jarlsberg og Larviks amt,07,Jarlsberg og Larviks amt,1842-01-01,1919-01-01,false
+fylke,07,Vestfold,07,Vestfold,1919-01-01,2020-01-01,false
+fylke,08,Bratsbergs amt,08,Bratsbergs amt,1842-01-01,1919-01-01,false
+fylke,08,Telemark,08,Telemark,1919-01-01,2020-01-01,false
+fylke,09,Nedenes amt,09,Nedenes amt,1842-01-01,1919-01-01,false
+fylke,09,Aust-Agder,09,Aust-Agder,1919-01-01,2020-01-01,false
+fylke,10,Lister og Mandals amt,10,Lister og Mandals amt,1842-01-01,1919-01-01,false
+fylke,10,Vest-Agder,10,Vest-Agder,1919-01-01,2020-01-01,false
+fylke,11,Stavanger amt,11,Stavanger amt,1842-01-01,1919-01-01,false
+fylke,11,Rogaland,11,Rogaland,1919-01-01,,true
+fylke,12,Søndre Bergenhus amt,12,Søndre Bergenhus amt,1842-01-01,1919-01-01,false
+fylke,12,Hordaland,12,Hordaland,1919-01-01,2020-01-01,false
+fylke,13,Bergen amt,13,Bergen amt,1842-01-01,1919-01-01,false
+fylke,13,Bergen,13,Bergen,1919-01-01,1972-01-01,false
+fylke,14,Nordre Bergenhus amt,14,Nordre Bergenhus amt,1842-01-01,1919-01-01,false
+fylke,14,Sogn og Fjordane,14,Sogn og Fjordane,1919-01-01,2020-01-01,false
+fylke,15,Romsdals amt,15,Romsdals amt,1842-01-01,1919-01-01,false
+fylke,15,Møre,15,Møre,1919-01-01,1936-01-01,false
+fylke,15,Møre og Romsdal,15,Møre og Romsdal,1936-01-01,,true
+fylke,16,Søndre Trondhjems amt,16,Søndre Trondhjems amt,1842-01-01,1919-01-01,false
+fylke,16,Sør-Trøndelag,16,Sør-Trøndelag,1919-01-01,2018-01-01,false
+fylke,17,Nordre Trondhjems amt,17,Nordre Trondhjems amt,1842-01-01,1919-01-01,false
+fylke,17,Nord-Trøndelag,17,Nord-Trøndelag,1919-01-01,2018-01-01,false
+fylke,18,Nordlands amt,18,Nordlands amt,1842-01-01,1919-01-01,false
+fylke,18,Nordland,18,Nordland,1919-01-01,2020-01-01,false
+fylke,18,Nordland ,18,Nordland ,2020-01-01,2022-01-01,false
+fylke,18,Nordland,18,Nordland,2022-01-01,,true
+fylke,19,Tromsø amt,19,Tromsø amt,1867-01-01,1919-01-01,false
+fylke,19,Troms,19,Troms,1919-01-01,2007-01-01,false
+fylke,19,Troms,19,Troms,2007-01-01,2020-01-01,false
+fylke,20,Finnmarkens amt,20,Finnmarkens amt,1842-01-01,1919-01-01,false
+fylke,20,Finnmark,20,Finnmark,1919-01-01,2003-01-01,false
+fylke,20,Finnmark,20,Finnmark,2003-01-01,2020-01-01,false
+fylke,30,Viken,30,Viken,2020-01-01,2024-01-01,false
+fylke,31,Østfold,31,Østfold,2024-01-01,,true
+fylke,32,Akershus,32,Akershus,2024-01-01,,true
+fylke,33,Buskerud,33,Buskerud,2024-01-01,,true
+fylke,34,Innlandet,34,Innlandet,2020-01-01,,true
+fylke,38,Vestfold og Telemark,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+fylke,39,Vestfold,39,Vestfold,2024-01-01,,true
+fylke,40,Telemark,40,Telemark,2024-01-01,,true
+fylke,42,Agder,42,Agder,2020-01-01,,true
+fylke,46,Vestland,46,Vestland,2020-01-01,,true
+fylke,50,Trøndelag,50,Trøndelag,2018-01-01,2020-01-01,false
+fylke,50,Trøndelag,50,Trøndelag,2020-01-01,,true
+fylke,54,Troms og Finnmark,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+fylke,55,Troms,55,Troms,2024-01-01,,true
+fylke,56,Finnmark,56,Finnmark,2024-01-01,,true
+kommune,0101,Fredrikshald,01,Østfold,1838-01-01,1928-01-01,false
+kommune,0101,Halden,01,Østfold,1928-01-01,2020-01-01,false
+kommune,0102,Sarpsborg,01,Østfold,1839-01-01,1992-01-01,false
+kommune,0103,Fredrikstad,01,Østfold,1838-01-01,1994-01-01,false
+kommune,0104,Moss,01,Østfold,1838-01-01,2020-01-01,false
+kommune,0105,Sarpsborg,01,Østfold,1992-01-01,2020-01-01,false
+kommune,0106,Fredrikstad,01,Østfold,1994-01-01,2020-01-01,false
+kommune,0111,Hvaler,01,Østfold,1838-01-01,2020-01-01,false
+kommune,0112,Torsnes,01,Østfold,1910-01-01,1964-01-01,false
+kommune,0113,Borge (Østfold),01,Østfold,1838-01-01,1994-01-01,false
+kommune,0114,Varteig,01,Østfold,1861-01-01,1992-01-01,false
+kommune,0115,Skjeberg,01,Østfold,1838-01-01,1992-01-01,false
+kommune,0116,Berg (Østfold),01,Østfold,1838-01-01,1967-01-01,false
+kommune,0117,Idd,01,Østfold,1838-01-01,1967-01-01,false
+kommune,0118,Aremark,01,Østfold,1838-01-01,2020-01-01,false
+kommune,0119,Øymark,01,Østfold,1904-01-01,1964-01-01,false
+kommune,0119,Marker,01,Østfold,1964-01-01,2020-01-01,false
+kommune,0120,Rødenes,01,Østfold,1838-01-01,1964-01-01,false
+kommune,0121,Rømskog,01,Østfold,1902-01-01,2020-01-01,false
+kommune,0122,Trøgstad,01,Østfold,1838-01-01,2020-01-01,false
+kommune,0123,Spydeberg,01,Østfold,1838-01-01,2020-01-01,false
+kommune,0124,Askim,01,Østfold,1838-01-01,2020-01-01,false
+kommune,0125,Eidsberg,01,Østfold,1838-01-01,2020-01-01,false
+kommune,0126,Mysen,01,Østfold,1921-01-01,1961-01-01,false
+kommune,0127,Skiptvet,01,Østfold,1838-01-01,2020-01-01,false
+kommune,0128,Rakkestad,01,Østfold,1838-01-01,2020-01-01,false
+kommune,0129,Degernes,01,Østfold,1918-01-01,1964-01-01,false
+kommune,0130,Tune,01,Østfold,1838-01-01,1992-01-01,false
+kommune,0131,Rolvsøy,01,Østfold,1911-01-01,1994-01-01,false
+kommune,0132,Glemmen,01,Østfold,1838-01-01,1964-01-01,false
+kommune,0133,Kråkerøy,01,Østfold,1908-01-01,1994-01-01,false
+kommune,0134,Onsøy,01,Østfold,1838-01-01,1994-01-01,false
+kommune,0135,Råde,01,Østfold,1838-01-01,2020-01-01,false
+kommune,0136,Rygge,01,Østfold,1838-01-01,2020-01-01,false
+kommune,0137,Våler (Østfold),01,Østfold,1838-01-01,2020-01-01,false
+kommune,0138,Hobøl,01,Østfold,1838-01-01,2020-01-01,false
+kommune,0194,Moss landsogn,01,Smaalenenes amt,1838-01-01,1919-01-01,false
+kommune,0194,Jeløy,01,Østfold,1919-01-01,1944-01-01,false
+kommune,0201,Soon og Hølen,02,Akershus amt,1838-01-01,1848-01-01,false
+kommune,0201,Son,02,Akershus amt,1848-01-01,1964-01-01,false
+kommune,0203,Drøbak,02,Akershus amt,1838-01-01,1962-01-01,false
+kommune,0204,Hølen,02,Akershus amt,1848-01-01,1944-01-01,false
+kommune,0211,Vestby,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0212,Kråkstad,02,Akershus amt,1838-01-01,1964-01-01,false
+kommune,0213,Ski,02,Akershus,1932-01-01,2020-01-01,false
+kommune,0214,Ås,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0215,Frogn,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0216,Nesodden,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0217,Oppegård,02,Akershus amt,1916-01-01,2020-01-01,false
+kommune,0218,Aker,02,Akershus amt,1838-01-01,1948-01-01,false
+kommune,0219,Bærum,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0220,Asker,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0221,Høland,02,Akershus amt,1838-01-01,1925-01-01,false
+kommune,0221,Søndre Høland,02,Akershus,1925-01-01,1966-01-01,false
+kommune,0221,Aurskog-Høland,02,Akershus,1966-01-01,2020-01-01,false
+kommune,0222,Nordre Høland,02,Akershus,1925-01-01,1966-01-01,false
+kommune,0223,Setskog,02,Akershus amt,1905-01-01,1966-01-01,false
+kommune,0224,Aurskog,02,Akershus amt,1838-01-01,1966-01-01,false
+kommune,0225,Blaker,02,Akershus,1920-01-01,1962-01-01,false
+kommune,0226,Sørum,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0227,Fet,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0228,Rælingen,02,Akershus,1930-01-01,2020-01-01,false
+kommune,0229,Enebakk,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0230,Lørenskog,02,Akershus amt,1908-01-01,2020-01-01,false
+kommune,0231,Skedsmo,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0232,Lillestrøm,02,Akershus amt,1908-01-01,1962-01-01,false
+kommune,0233,Nittedal,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0234,Gjerdrum,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0235,Ullensaker,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0236,Nes (Akershus),02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0237,Eidsvoll,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0238,Nannestad,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0239,Hurdal,02,Akershus amt,1838-01-01,2020-01-01,false
+kommune,0240,Feiring,02,Akershus amt,1870-01-01,1964-01-01,false
+kommune,0301,Christiania,03,Christiania amt,1838-01-01,1877-01-01,false
+kommune,0301,Kristiania,03,Oslo,1877-01-01,1925-01-01,false
+kommune,0301,Oslo,03,Oslo,1925-01-01,,true
+kommune,0401,Hamar,04,Hedemarkens amt,1850-01-01,1992-01-01,false
+kommune,0402,Kongsvinger,04,Hedemarkens amt,1856-01-01,1964-01-01,false
+kommune,0402,Kongsvinger,04,Hedmark,1965-01-01,2020-01-01,false
+kommune,0403,Hamar,04,Hedmark,1992-01-01,2020-01-01,false
+kommune,0411,Nes (Hedmark),04,Hedemarkens amt,1838-01-01,1964-01-01,false
+kommune,0412,Ringsaker,04,Hedemarkens amt,1838-01-01,2020-01-01,false
+kommune,0413,Furnes,04,Hedemarkens amt,1891-01-01,1964-01-01,false
+kommune,0414,Vang (Hedmark),04,Hedemarkens amt,1838-01-01,1992-01-01,false
+kommune,0415,Løten,04,Hedemarkens amt,1838-01-01,2020-01-01,false
+kommune,0416,Romedal,04,Hedemarkens amt,1838-01-01,1964-01-01,false
+kommune,0417,Stange,04,Hedemarkens amt,1838-01-01,2020-01-01,false
+kommune,0418,Nord-Odal,04,Hedemarkens amt,1838-01-01,2020-01-01,false
+kommune,0419,Sør-Odal,04,Hedemarkens amt,1838-01-01,2020-01-01,false
+kommune,0420,Eidskog,04,Hedemarkens amt,1861-01-01,2020-01-01,false
+kommune,0421,Vinger,04,Hedemarkens amt,1838-01-01,1964-01-01,false
+kommune,0421,Kongsvinger,04,Hedmark,1964-01-01,1965-01-01,false
+kommune,0422,Brandval,04,Hedemarkens amt,1867-01-01,1964-01-01,false
+kommune,0423,Grue,04,Hedemarkens amt,1838-01-01,2020-01-01,false
+kommune,0424,Hof (Hedmark),04,Hedemarkens amt,1838-01-01,1963-01-01,false
+kommune,0425,Åsnes og Våler,04,Hedemarkens amt,1849-01-01,1854-01-01,false
+kommune,0425,Åsnes,04,Hedemarkens amt,1854-01-01,2020-01-01,false
+kommune,0426,Våler (Hedmark),04,Hedemarkens amt,1854-01-01,2020-01-01,false
+kommune,0427,Elverum,04,Hedemarkens amt,1838-01-01,2020-01-01,false
+kommune,0428,Trysil,04,Hedemarkens amt,1838-01-01,2020-01-01,false
+kommune,0429,Åmot,04,Hedemarkens amt,1838-01-01,2020-01-01,false
+kommune,0430,Stor-Elvdal,04,Hedemarkens amt,1838-01-01,2020-01-01,false
+kommune,0431,Sollia,04,Hedemarkens amt,1890-01-01,1965-01-01,false
+kommune,0432,Rendal,04,Hedemarkens amt,1838-01-01,1880-01-01,false
+kommune,0432,Ytre Rendal,04,Hedemarkens amt,1880-01-01,1965-01-01,false
+kommune,0432,Rendalen,04,Hedmark,1965-01-01,2020-01-01,false
+kommune,0433,Øvre Rendal,04,Hedemarkens amt,1880-01-01,1965-01-01,false
+kommune,0434,Engerdal,04,Hedemarkens amt,1911-01-01,2020-01-01,false
+kommune,0435,Os (Hedmark),04,Hedmark,1927-01-01,1966-01-01,false
+kommune,0435,Tolga-Os,04,Hedmark,1966-01-01,1976-01-01,false
+kommune,0436,Tolga,04,Hedemarkens amt,1838-01-01,1966-01-01,false
+kommune,0436,Tolga,04,Hedmark,1976-01-01,2020-01-01,false
+kommune,0437,Tynset,04,Hedemarkens amt,1838-01-01,2020-01-01,false
+kommune,0438,Lille Elvedalen,04,Hedemarkens amt,1864-01-01,1918-01-01,false
+kommune,0438,Alvdal,04,Hedemarkens amt,1918-01-01,2020-01-01,false
+kommune,0439,Folldal,04,Hedemarkens amt,1914-01-01,2020-01-01,false
+kommune,0440,Kvikne,04,Hedemarkens amt,1838-01-01,1966-01-01,false
+kommune,0441,Os (Hedmark),04,Hedmark,1976-01-01,2020-01-01,false
+kommune,0501,Lillehammer,05,Oppland,1838-01-01,2020-01-01,false
+kommune,0502,Gjøvik,05,Oppland,1861-01-01,2020-01-01,false
+kommune,0511,Dovre,05,Oppland,1863-01-01,2020-01-01,false
+kommune,0512,Lesja,05,Oppland,1838-01-01,2020-01-01,false
+kommune,0513,Skjåk,05,Oppland,1866-01-01,2020-01-01,false
+kommune,0514,Lom,05,Oppland,1838-01-01,2020-01-01,false
+kommune,0515,Vaage,05,Kristians amt,1838-01-01,1918-01-01,false
+kommune,0515,Vågå,05,Oppland,1918-01-01,2020-01-01,false
+kommune,0516,Heidal,05,Oppland,1908-01-01,1965-01-01,false
+kommune,0516,Nord-Fron,05,Oppland,1977-01-01,2020-01-01,false
+kommune,0517,Sel,05,Oppland,1908-01-01,2020-01-01,false
+kommune,0518,Fron,05,Kristians amt,1838-01-01,1851-01-01,false
+kommune,0518,Nord-Fron,05,Oppland,1851-01-01,1966-01-01,false
+kommune,0518,Fron,05,Oppland,1966-01-01,1977-01-01,false
+kommune,0519,Sør-Fron,05,Oppland,1851-01-01,1966-01-01,false
+kommune,0519,Sør-Fron,05,Oppland,1977-01-01,2020-01-01,false
+kommune,0520,Ringebu,05,Oppland,1838-01-01,2020-01-01,false
+kommune,0521,Øyer,05,Oppland,1838-01-01,2020-01-01,false
+kommune,0522,Gausdal,05,Kristians amt,1838-01-01,1879-01-01,false
+kommune,0522,Østre Gausdal,05,Oppland,1879-01-01,1962-01-01,false
+kommune,0522,Gausdal,05,Oppland,1962-01-01,2020-01-01,false
+kommune,0523,Vestre Gausdal,05,Oppland,1879-01-01,1962-01-01,false
+kommune,0524,Fåberg,05,Oppland,1838-01-01,1964-01-01,false
+kommune,0525,Biri,05,Oppland,1838-01-01,1964-01-01,false
+kommune,0526,Snertingdal,05,Oppland,1910-01-01,1964-01-01,false
+kommune,0527,Vardal,05,Oppland,1838-01-01,1964-01-01,false
+kommune,0528,Østre Toten,05,Oppland,1838-01-01,2020-01-01,false
+kommune,0529,Vestre Toten,05,Oppland,1838-01-01,2020-01-01,false
+kommune,0530,Eina,05,Oppland,1908-01-01,1964-01-01,false
+kommune,0531,Kolbu,05,Oppland,1908-01-01,1964-01-01,false
+kommune,0532,Jevnaker,05,Oppland,1838-01-01,2020-01-01,false
+kommune,0533,Lunner,05,Oppland,1898-01-01,2020-01-01,false
+kommune,0534,Gran,05,Oppland,1838-01-01,2020-01-01,false
+kommune,0535,Brandbu,05,Oppland,1897-01-01,1962-01-01,false
+kommune,0536,Land,05,Kristians amt,1838-01-01,1847-01-01,false
+kommune,0536,Søndre Land,05,Oppland,1847-01-01,2020-01-01,false
+kommune,0537,Fluberg,05,Oppland,1914-01-01,1962-01-01,false
+kommune,0538,Nordre Land,05,Oppland,1847-01-01,2020-01-01,false
+kommune,0539,Torpa,05,Oppland,1914-01-01,1962-01-01,false
+kommune,0540,Sør-Aurdal,05,Oppland,1838-01-01,2020-01-01,false
+kommune,0541,Etnedal,05,Oppland,1894-01-01,2020-01-01,false
+kommune,0542,Nord-Aurdal,05,Oppland,1838-01-01,2020-01-01,false
+kommune,0543,Slidre,05,Kristians amt,1838-01-01,1850-01-01,false
+kommune,0543,Vestre Slidre,05,Oppland,1850-01-01,2020-01-01,false
+kommune,0544,Øystre Slidre,05,Oppland,1850-01-01,2020-01-01,false
+kommune,0545,Vang (Oppland),05,Oppland,1838-01-01,2002-01-01,false
+kommune,0545,Vang,05,Oppland,2002-01-01,2003-01-01,false
+kommune,0545,Vang (Oppland),05,Oppland,2003-01-01,2005-01-01,false
+kommune,0545,Vang,05,Oppland,2005-01-01,2011-01-01,false
+kommune,0545,Vang (Oppland),05,Oppland,2011-01-01,2012-01-01,false
+kommune,0545,Vang,05,Oppland,2012-01-01,2015-01-01,false
+kommune,0545,Vang (Oppland),05,Oppland,2015-01-01,2017-01-01,false
+kommune,0545,Vang,05,Oppland,2017-01-01,2020-01-01,false
+kommune,0580,Sollia,05,Kristians amt,1864-01-01,1890-01-01,false
+kommune,0601,Hønefoss,06,Buskerud,1853-01-01,1964-01-01,false
+kommune,0601,Ringerike,06,Buskerud,1964-01-01,1977-01-01,false
+kommune,0602,Drammen,06,Buskerud,1838-01-01,2020-01-01,false
+kommune,0604,Kongsberg,06,Buskerud,1838-01-01,2020-01-01,false
+kommune,0605,Ringerike,06,Buskerud,1977-01-01,2020-01-01,false
+kommune,0611,Tyristrand,06,Buskerud,1917-01-01,1964-01-01,false
+kommune,0612,Hole,06,Buskerud,1838-01-01,1964-01-01,false
+kommune,0612,Hole,06,Buskerud,1977-01-01,2020-01-01,false
+kommune,0613,Norderhov,06,Buskerud,1838-01-01,1964-01-01,false
+kommune,0614,Ådal,06,Buskerud,1857-01-01,1964-01-01,false
+kommune,0615,Flå (Buskerud),06,Buskerud,1905-01-01,2002-01-01,false
+kommune,0615,Flå,06,Buskerud,2002-01-01,2003-01-01,false
+kommune,0615,Flå (Buskerud),06,Buskerud,2003-01-01,2005-01-01,false
+kommune,0615,Flå,06,Buskerud,2005-01-01,2011-01-01,false
+kommune,0615,Flå (Buskerud),06,Buskerud,2011-01-01,2012-01-01,false
+kommune,0615,Flå,06,Buskerud,2012-01-01,2015-01-01,false
+kommune,0615,Flå (Buskerud),06,Buskerud,2015-01-01,2017-01-01,false
+kommune,0615,Flå,06,Buskerud,2017-01-01,2020-01-01,false
+kommune,0616,Nes (Buskerud),06,Buskerud,1838-01-01,2020-01-01,false
+kommune,0617,Gol,06,Buskerud,1838-01-01,2020-01-01,false
+kommune,0618,Hemsedal,06,Buskerud,1897-01-01,2020-01-01,false
+kommune,0619,Ål,06,Buskerud,1838-01-01,2020-01-01,false
+kommune,0620,Hol (Buskerud),06,Buskerud,1877-01-01,2002-01-01,false
+kommune,0620,Hol,06,Buskerud,2002-01-01,2003-01-01,false
+kommune,0620,Hol (Buskerud),06,Buskerud,2003-01-01,2005-01-01,false
+kommune,0620,Hol,06,Buskerud,2005-01-01,2011-01-01,false
+kommune,0620,Hol (Buskerud),06,Buskerud,2011-01-01,2012-01-01,false
+kommune,0620,Hol,06,Buskerud,2012-01-01,2015-01-01,false
+kommune,0620,Hol (Buskerud),06,Buskerud,2015-01-01,2017-01-01,false
+kommune,0620,Hol,06,Buskerud,2017-01-01,2020-01-01,false
+kommune,0621,Sigdal,06,Buskerud,1838-01-01,2020-01-01,false
+kommune,0622,Krødsherad,06,Buskerud,1901-01-01,2020-01-01,false
+kommune,0623,Modum,06,Buskerud,1838-01-01,2020-01-01,false
+kommune,0624,Eiker,06,Buskerud amt,1838-01-01,1886-01-01,false
+kommune,0624,Øvre Eiker,06,Buskerud,1886-01-01,2020-01-01,false
+kommune,0625,Nedre Eiker,06,Buskerud,1886-01-01,2020-01-01,false
+kommune,0626,Lier,06,Buskerud,1838-01-01,2020-01-01,false
+kommune,0627,Røyken,06,Buskerud,1838-01-01,2020-01-01,false
+kommune,0628,Hurum,06,Buskerud,1838-01-01,2020-01-01,false
+kommune,0629,Sandsvær,06,Buskerud amt,1838-01-01,1908-01-01,false
+kommune,0629,Ytre Sandsvær,06,Buskerud,1908-01-01,1964-01-01,false
+kommune,0630,Øvre Sandsvær,06,Buskerud,1908-01-01,1964-01-01,false
+kommune,0631,Flesberg,06,Buskerud,1838-01-01,2020-01-01,false
+kommune,0632,Rollag,06,Buskerud,1838-01-01,2020-01-01,false
+kommune,0633,Nore,06,Buskerud,1858-01-01,1962-01-01,false
+kommune,0633,Nore og Uvdal,06,Buskerud,1962-01-01,2020-01-01,false
+kommune,0634,Opdal,06,Buskerud,1901-01-01,1933-01-01,false
+kommune,0634,Uvdal,06,Buskerud,1933-01-01,1962-01-01,false
+kommune,0681,Strømsgodset,06,Buskerud amt,1838-01-01,1843-01-01,false
+kommune,0701,Svelvik,07,Vestfold,1846-01-01,1964-01-01,false
+kommune,0701,Borre,07,Vestfold,1988-01-01,2002-01-01,false
+kommune,0701, Borre ,07,Vestfold,2002-01-01,2003-01-01,false
+kommune,0701,Horten,07,Vestfold,2003-01-01,2020-01-01,false
+kommune,0702,Holmestrand,07,Vestfold,1838-01-01,2018-01-01,false
+kommune,0703,Horten,07,Vestfold,1858-01-01,1988-01-01,false
+kommune,0704,Åsgårdstrand,07,Vestfold,1838-01-01,1965-01-01,false
+kommune,0704,Tønsberg,07,Vestfold,1988-01-01,2020-01-01,false
+kommune,0705,Tønsberg,07,Vestfold,1838-01-01,1988-01-01,false
+kommune,0706,Sandefjord,07,Vestfold,1838-01-01,2017-01-01,false
+kommune,0707,Larvik,07,Vestfold,1838-01-01,1988-01-01,false
+kommune,0708,Stavern,07,Vestfold,1943-01-01,1988-01-01,false
+kommune,0709,Larvik,07,Vestfold,1988-01-01,2018-01-01,false
+kommune,0710,Sandefjord,07,Vestfold,2017-01-01,2020-01-01,false
+kommune,0711,Svelvik,07,Jarlsberg og Larviks amt,1838-01-01,1846-01-01,false
+kommune,0711,Strømmen,07,Vestfold,1846-01-01,1964-01-01,false
+kommune,0711,Svelvik,07,Vestfold,1964-01-01,2020-01-01,false
+kommune,0712,Skoger,07,Vestfold,1838-01-01,1964-01-01,false
+kommune,0712,Larvik,07,Vestfold,2018-01-01,2020-01-01,false
+kommune,0713,Sande (Vestfold),07,Vestfold,1838-01-01,2020-01-01,false
+kommune,0714,Hof (Vestfold),07,Vestfold,1838-01-01,2002-01-01,false
+kommune,0714,Hof,07,Vestfold,2002-01-01,2003-01-01,false
+kommune,0714,Hof (Vestfold),07,Vestfold,2003-01-01,2005-01-01,false
+kommune,0714,Hof,07,Vestfold,2005-01-01,2011-01-01,false
+kommune,0714,Hof (Vestfold),07,Vestfold,2011-01-01,2012-01-01,false
+kommune,0714,Hof,07,Vestfold,2012-01-01,2015-01-01,false
+kommune,0714,Hof (Vestfold),07,Vestfold,2015-01-01,2017-01-01,false
+kommune,0714,Hof,07,Vestfold,2017-01-01,2018-01-01,false
+kommune,0715,Botne,07,Vestfold,1838-01-01,1964-01-01,false
+kommune,0715,Holmestrand,07,Vestfold,2018-01-01,2020-01-01,false
+kommune,0716,Våle,07,Vestfold,1838-01-01,2002-01-01,false
+kommune,0716,Re,07,Vestfold,2002-01-01,2020-01-01,false
+kommune,0717,Borre,07,Vestfold,1838-01-01,1988-01-01,false
+kommune,0718,Ramnes,07,Vestfold,1838-01-01,2002-01-01,false
+kommune,0719,Andebu,07,Vestfold,1838-01-01,2017-01-01,false
+kommune,0720,Stokke,07,Vestfold,1838-01-01,2017-01-01,false
+kommune,0721,Sem,07,Vestfold,1838-01-01,1988-01-01,false
+kommune,0722,Nøtterøy,07,Vestfold,1838-01-01,2018-01-01,false
+kommune,0723,Tjøme,07,Vestfold,1838-01-01,2018-01-01,false
+kommune,0724,Sandeherad,07,Vestfold,1838-01-01,1932-01-01,false
+kommune,0724,Sandar,07,Vestfold,1932-01-01,1968-01-01,false
+kommune,0725,Tjølling,07,Vestfold,1838-01-01,1988-01-01,false
+kommune,0726,Brunlanes,07,Vestfold,1838-01-01,1988-01-01,false
+kommune,0727,Hedrum,07,Vestfold,1838-01-01,1988-01-01,false
+kommune,0728,Lardal,07,Vestfold,1838-01-01,2018-01-01,false
+kommune,0729,Færder,07,Vestfold,2018-01-01,2020-01-01,false
+kommune,0798,Fredriksvern,07,Vestfold,1838-01-01,1930-01-01,false
+kommune,0798,Stavern,07,Vestfold,1930-01-01,1943-01-01,false
+kommune,0801,Kragerø,08,Bratsbergs amt,1838-01-01,1960-01-01,false
+kommune,0802,Langesund,08,Bratsbergs amt,1838-01-01,1964-01-01,false
+kommune,0803,Stathelle,08,Bratsbergs amt,1852-01-01,1964-01-01,false
+kommune,0804,Brevik,08,Bratsbergs amt,1838-01-01,1964-01-01,false
+kommune,0805,Porsgrunn,08,Bratsbergs amt,1838-01-01,2020-01-01,false
+kommune,0806,Skien,08,Bratsbergs amt,1838-01-01,2020-01-01,false
+kommune,0807,Notodden,08,Bratsbergs amt,1913-01-01,2020-01-01,false
+kommune,0811,Slemdal,08,Bratsbergs amt,1838-01-01,1918-01-01,false
+kommune,0811,Siljan,08,Bratsbergs amt,1918-01-01,2020-01-01,false
+kommune,0812,Gjerpen,08,Bratsbergs amt,1838-01-01,1964-01-01,false
+kommune,0813,Eidanger,08,Bratsbergs amt,1838-01-01,1964-01-01,false
+kommune,0814,Bamble,08,Bratsbergs amt,1838-01-01,2020-01-01,false
+kommune,0815,Skåtøy,08,Bratsbergs amt,1882-01-01,1960-01-01,false
+kommune,0815,Kragerø,08,Telemark,1960-01-01,2020-01-01,false
+kommune,0816,Sannidal,08,Bratsbergs amt,1838-01-01,1960-01-01,false
+kommune,0817,Drangedal,08,Bratsbergs amt,1838-01-01,2020-01-01,false
+kommune,0818,Solum,08,Bratsbergs amt,1838-01-01,1964-01-01,false
+kommune,0819,Holla,08,Bratsbergs amt,1838-01-01,1964-01-01,false
+kommune,0819,Nome,08,Telemark,1964-01-01,2020-01-01,false
+kommune,0820,Lunde,08,Bratsbergs amt,1867-01-01,1964-01-01,false
+kommune,0821,Bø (Telemark),08,Bratsbergs amt,1838-01-01,2020-01-01,false
+kommune,0822,Sauherad,08,Bratsbergs amt,1838-01-01,2020-01-01,false
+kommune,0823,Heddal,08,Bratsbergs amt,1838-01-01,1964-01-01,false
+kommune,0824,Gransherad,08,Bratsbergs amt,1860-01-01,1964-01-01,false
+kommune,0825,Hovin,08,Bratsbergs amt,1886-01-01,1964-01-01,false
+kommune,0826,Tinn,08,Bratsbergs amt,1838-01-01,2020-01-01,false
+kommune,0827,Hjartdal,08,Bratsbergs amt,1838-01-01,2020-01-01,false
+kommune,0828,Seljord,08,Bratsbergs amt,1838-01-01,2020-01-01,false
+kommune,0829,Kviteseid,08,Bratsbergs amt,1838-01-01,2020-01-01,false
+kommune,0830,Nissedal,08,Bratsbergs amt,1838-01-01,2020-01-01,false
+kommune,0831,Fyresdal,08,Bratsbergs amt,1838-01-01,2020-01-01,false
+kommune,0832,Mo (Telemark),08,Bratsbergs amt,1838-01-01,1964-01-01,false
+kommune,0833,Lårdal,08,Bratsbergs amt,1838-01-01,1964-01-01,false
+kommune,0833,Tokke,08,Telemark,1964-01-01,2020-01-01,false
+kommune,0834,Vinje (Telemark),08,Bratsbergs amt,1838-01-01,1964-01-01,false
+kommune,0834,Vinje,08,Telemark,1964-01-01,2020-01-01,false
+kommune,0835,Rauland,08,Bratsbergs amt,1860-01-01,1964-01-01,false
+kommune,0901,Risør,09,Nedenes amt,1838-01-01,2020-01-01,false
+kommune,0902,Tvedestrand,09,Nedenes amt,1838-01-01,1960-01-01,false
+kommune,0903,Arendal,09,Nedenes amt,1838-01-01,1992-01-01,false
+kommune,0904,Grimstad,09,Nedenes amt,1838-01-01,2020-01-01,false
+kommune,0905,Lillesand,09,Nedenes amt,1838-01-01,1962-01-01,false
+kommune,0906,Arendal,09,Aust-Agder,1992-01-01,2020-01-01,false
+kommune,0911,Gjerstad,09,Nedenes amt,1838-01-01,2020-01-01,false
+kommune,0912,Vegårshei,09,Nedenes amt,1838-01-01,2020-01-01,false
+kommune,0913,Søndeled,09,Nedenes amt,1838-01-01,1964-01-01,false
+kommune,0914,Holt,09,Nedenes amt,1838-01-01,1960-01-01,false
+kommune,0914,Tvedestrand,09,Aust-Agder,1960-01-01,2020-01-01,false
+kommune,0915,Dypvåg,09,Nedenes amt,1838-01-01,1960-01-01,false
+kommune,0916,Flosta,09,Nedenes amt,1902-01-01,1962-01-01,false
+kommune,0917,Stokken,09,Aust-Agder,1920-01-01,1962-01-01,false
+kommune,0918,Austre Moland,09,Nedenes amt,1838-01-01,1962-01-01,false
+kommune,0918,Moland,09,Aust-Agder,1962-01-01,1992-01-01,false
+kommune,0919,Froland,09,Nedenes amt,1850-01-01,2020-01-01,false
+kommune,0920,Øyestad,09,Nedenes amt,1838-01-01,1992-01-01,false
+kommune,0921,Tromøy,09,Nedenes amt,1879-01-01,1992-01-01,false
+kommune,0922,His,09,Nedenes amt,1881-01-01,1931-01-01,false
+kommune,0922,Hisøy,09,Aust-Agder,1931-01-01,1992-01-01,false
+kommune,0923,Fjære,09,Nedenes amt,1846-01-01,1971-01-01,false
+kommune,0924,Landvik,09,Nedenes amt,1838-01-01,1971-01-01,false
+kommune,0925,Eide (Aust-Agder),09,Nedenes amt,1838-01-01,1962-01-01,false
+kommune,0926,Vestre Moland,09,Nedenes amt,1838-01-01,1962-01-01,false
+kommune,0926,Lillesand,09,Aust-Agder,1962-01-01,2020-01-01,false
+kommune,0927,Høvåg,09,Nedenes amt,1865-01-01,1962-01-01,false
+kommune,0928,Birkenes,09,Nedenes amt,1838-01-01,2020-01-01,false
+kommune,0929,Åmli,09,Nedenes amt,1838-01-01,2020-01-01,false
+kommune,0930,Gjevedal,09,Nedenes amt,1908-01-01,1915-01-01,false
+kommune,0930,Gjøvdal,09,Nedenes amt,1915-01-01,1960-01-01,false
+kommune,0931,Lille Topdal,09,Nedenes amt,1908-01-01,1922-01-01,false
+kommune,0931,Tovdal,09,Aust-Agder,1922-01-01,1967-01-01,false
+kommune,0932,Mykland,09,Nedenes amt,1876-01-01,1967-01-01,false
+kommune,0933,Herefoss,09,Nedenes amt,1838-01-01,1967-01-01,false
+kommune,0934,Evje og Vegusdal,09,Nedenes amt,1838-01-01,1877-01-01,false
+kommune,0934,Vegusdal,09,Nedenes amt,1877-01-01,1967-01-01,false
+kommune,0935,Hornnes og Iveland,09,Nedenes amt,1838-01-01,1886-01-01,false
+kommune,0935,Iveland,09,Nedenes amt,1886-01-01,2020-01-01,false
+kommune,0936,Hornnes,09,Nedenes amt,1886-01-01,1960-01-01,false
+kommune,0937,Evje,09,Nedenes amt,1877-01-01,1960-01-01,false
+kommune,0937,Evje og Hornnes,09,Aust-Agder,1960-01-01,2020-01-01,false
+kommune,0938,Bygland,09,Nedenes amt,1838-01-01,2020-01-01,false
+kommune,0939,Hylestad,09,Nedenes amt,1916-01-01,1962-01-01,false
+kommune,0940,Valle,09,Nedenes amt,1838-01-01,2020-01-01,false
+kommune,0941,Bykle,09,Nedenes amt,1902-01-01,2020-01-01,false
+kommune,0980,Åseral,09,Nedenes amt,1838-01-01,1881-01-01,false
+kommune,0990,Barbu,09,Nedenes amt,1879-01-01,1902-01-01,false
+kommune,1001,Kristiansand,10,Lister og Mandals amt,1838-01-01,2020-01-01,false
+kommune,1002,Mandal,10,Lister og Mandals amt,1838-01-01,2020-01-01,false
+kommune,1003,Farsund,10,Lister og Mandals amt,1838-01-01,2020-01-01,false
+kommune,1004,Flekkefjord,10,Lister og Mandals amt,1838-01-01,2020-01-01,false
+kommune,1011,Randesund,10,Lister og Mandals amt,1894-01-01,1965-01-01,false
+kommune,1012,Oddernes,10,Lister og Mandals amt,1838-01-01,1965-01-01,false
+kommune,1013,Tveit,10,Lister og Mandals amt,1838-01-01,1965-01-01,false
+kommune,1014,Vennesla,10,Lister og Mandals amt,1865-01-01,2020-01-01,false
+kommune,1015,Hægeland,10,Lister og Mandals amt,1897-01-01,1964-01-01,false
+kommune,1016,Øvrebø,10,Lister og Mandals amt,1838-01-01,1865-01-01,false
+kommune,1016,Øvrebø og Hægeland,10,Lister og Mandals amt,1865-01-01,1897-01-01,false
+kommune,1016,Øvrebø,10,Lister og Mandals amt,1897-01-01,1964-01-01,false
+kommune,1017,Greipstad,10,Lister og Mandals amt,1914-01-01,1964-01-01,false
+kommune,1017,Songdalen,10,Vest-Agder,1964-01-01,2020-01-01,false
+kommune,1018,Søgne,10,Lister og Mandals amt,1838-01-01,2020-01-01,false
+kommune,1019,Mandals landsdistrikt,10,Lister og Mandals amt,1838-01-01,1865-01-01,false
+kommune,1019,Halse og Harkmark,10,Lister og Mandals amt,1865-01-01,1964-01-01,false
+kommune,1020,Holum,10,Lister og Mandals amt,1838-01-01,1964-01-01,false
+kommune,1021,Øyslebø og Laudal,10,Lister og Mandals amt,1838-01-01,1899-01-01,false
+kommune,1021,Øyslebø,10,Lister og Mandals amt,1899-01-01,1964-01-01,false
+kommune,1021,Marnardal,10,Vest-Agder,1964-01-01,2020-01-01,false
+kommune,1022,Laudal,10,Lister og Mandals amt,1899-01-01,1964-01-01,false
+kommune,1023,Finsland,10,Lister og Mandals amt,1838-01-01,1964-01-01,false
+kommune,1024,Bjelland og Grindheim,10,Lister og Mandals amt,1838-01-01,1902-01-01,false
+kommune,1024,Bjelland,10,Lister og Mandals amt,1902-01-01,1964-01-01,false
+kommune,1025,Grindum,10,Lister og Mandals amt,1902-01-01,1918-01-01,false
+kommune,1025,Grindheim,10,Lister og Mandals amt,1918-01-01,1964-01-01,false
+kommune,1026,Åseral,10,Lister og Mandals amt,1881-01-01,2020-01-01,false
+kommune,1027,Undal,10,Lister og Mandals amt,1838-01-01,1845-01-01,false
+kommune,1027,Nord-Undal,10,Lister og Mandals amt,1845-01-01,1911-01-01,false
+kommune,1027,Konsmo,10,Lister og Mandals amt,1911-01-01,1964-01-01,false
+kommune,1027,Audnedal,10,Vest-Agder,1964-01-01,2020-01-01,false
+kommune,1028,Vigmostad,10,Lister og Mandals amt,1911-01-01,1964-01-01,false
+kommune,1029,Sør-Undal,10,Lister og Mandals amt,1845-01-01,1899-01-01,false
+kommune,1029,Sør-Audnedal,10,Lister og Mandals amt,1899-01-01,1964-01-01,false
+kommune,1029,Lindesnes,10,Vest-Agder,1964-01-01,2020-01-01,false
+kommune,1030,Spangereid,10,Lister og Mandals amt,1899-01-01,1964-01-01,false
+kommune,1031,Austad,10,Lister og Mandals amt,1909-01-01,1963-01-01,false
+kommune,1032,Lyngdal,10,Lister og Mandals amt,1838-01-01,2020-01-01,false
+kommune,1033,Kvås,10,Lister og Mandals amt,1909-01-01,1963-01-01,false
+kommune,1034,Hægebostad,10,Lister og Mandals amt,1838-01-01,2020-01-01,false
+kommune,1035,Eiken,10,Lister og Mandals amt,1916-01-01,1963-01-01,false
+kommune,1036,Fjotland,10,Lister og Mandals amt,1838-01-01,1841-01-01,false
+kommune,1036,Fjotland,10,Lister og Mandals amt,1858-01-01,1963-01-01,false
+kommune,1037,Kvinesdal,10,Lister og Mandals amt,1838-01-01,1900-01-01,false
+kommune,1037,Liknes,10,Lister og Mandals amt,1900-01-01,1918-01-01,false
+kommune,1037,Kvinesdal,10,Lister og Mandals amt,1918-01-01,2020-01-01,false
+kommune,1038,Feda,10,Lister og Mandals amt,1900-01-01,1963-01-01,false
+kommune,1039,Herad,10,Lister og Mandals amt,1838-01-01,1965-01-01,false
+kommune,1040,Spind,10,Lister og Mandals amt,1894-01-01,1965-01-01,false
+kommune,1041,Vanse,10,Lister og Mandals amt,1838-01-01,1911-01-01,false
+kommune,1041,Lista,10,Lister og Mandals amt,1911-01-01,1965-01-01,false
+kommune,1042,Nes og Hitterø,10,Lister og Mandals amt,1838-01-01,1894-01-01,false
+kommune,1042,Hitterø,10,Lister og Mandals amt,1894-01-01,1920-01-01,false
+kommune,1042,Hidra,10,Vest-Agder,1920-01-01,1965-01-01,false
+kommune,1043,Nes (Vest-Agder),10,Lister og Mandals amt,1894-01-01,1965-01-01,false
+kommune,1044,Gyland,10,Lister og Mandals amt,1894-01-01,1965-01-01,false
+kommune,1045,Bakke,10,Lister og Mandals amt,1838-01-01,1965-01-01,false
+kommune,1046,Sirdal,10,Lister og Mandals amt,1849-01-01,1905-01-01,false
+kommune,1046,Tonstad,10,Lister og Mandals amt,1905-01-01,1960-01-01,false
+kommune,1046,Sirdal,10,Vest-Agder,1960-01-01,2020-01-01,false
+kommune,1047,Øvre Sirdal,10,Lister og Mandals amt,1905-01-01,1960-01-01,false
+kommune,1101,Egersund,11,Rogaland,1838-01-01,1965-01-01,false
+kommune,1101,Eigersund,11,Rogaland,1965-01-01,,true
+kommune,1102,Sandnes,11,Rogaland,1862-01-01,2020-01-01,false
+kommune,1103,Stavanger,11,Rogaland,1838-01-01,,true
+kommune,1104,Skudeneshavn,11,Rogaland,1859-01-01,1965-01-01,false
+kommune,1105,Kopervik,11,Rogaland,1867-01-01,1965-01-01,false
+kommune,1106,Haugesund,11,Rogaland,1856-01-01,,true
+kommune,1107,Sogndal (Rogaland),11,Rogaland,1845-01-01,1945-01-01,false
+kommune,1108,Sandnes,11,Rogaland,2020-01-01,,true
+kommune,1111,Sokndal,11,Rogaland,1838-01-01,,true
+kommune,1112,Lund,11,Rogaland,1838-01-01,,true
+kommune,1113,Heskestad,11,Rogaland,1838-01-01,1965-01-01,false
+kommune,1114,Bjerkreim,11,Rogaland,1838-01-01,,true
+kommune,1115,Helleland,11,Rogaland,1838-01-01,1965-01-01,false
+kommune,1116,Eigersund,11,Rogaland,1838-01-01,1965-01-01,false
+kommune,1117,Ogna,11,Rogaland,1839-01-01,1964-01-01,false
+kommune,1118,Varhaug,11,Rogaland,1894-01-01,1964-01-01,false
+kommune,1119,Hå,11,Stavanger amt,1838-01-01,1894-01-01,false
+kommune,1119,Nærbø,11,Rogaland,1894-01-01,1964-01-01,false
+kommune,1119,Hå,11,Rogaland,1964-01-01,,true
+kommune,1120,Klepp,11,Rogaland,1838-01-01,,true
+kommune,1121,Time,11,Rogaland,1838-01-01,,true
+kommune,1122,Gjesdal,11,Rogaland,1838-01-01,,true
+kommune,1123,Høyland,11,Rogaland,1838-01-01,1965-01-01,false
+kommune,1124,Håland,11,Rogaland,1838-01-01,1931-01-01,false
+kommune,1124,Sola,11,Rogaland,1931-01-01,,true
+kommune,1125,Madla,11,Rogaland,1931-01-01,1965-01-01,false
+kommune,1126,Hetland,11,Rogaland,1838-01-01,1965-01-01,false
+kommune,1127,Randaberg,11,Rogaland,1923-01-01,,true
+kommune,1128,Høgsfjord,11,Stavanger amt,1842-01-01,1871-01-01,false
+kommune,1128,Høle,11,Rogaland,1871-01-01,1965-01-01,false
+kommune,1129,Forsand,11,Rogaland,1871-01-01,2020-01-01,false
+kommune,1130,Strand,11,Rogaland,1838-01-01,,true
+kommune,1131,Årdal (Rogaland),11,Rogaland,1859-01-01,1965-01-01,false
+kommune,1132,Fister,11,Rogaland,1885-01-01,1965-01-01,false
+kommune,1133,Hjelmeland og Fister,11,Stavanger amt,1838-01-01,1885-01-01,false
+kommune,1133,Hjelmeland,11,Rogaland,1885-01-01,,true
+kommune,1134,Suldal,11,Rogaland,1838-01-01,,true
+kommune,1135,Sauda,11,Rogaland,1842-01-01,,true
+kommune,1136,Sand (Rogaland),11,Rogaland,1859-01-01,1965-01-01,false
+kommune,1137,Erfjord,11,Rogaland,1914-01-01,1965-01-01,false
+kommune,1138,Jelsa,11,Rogaland,1838-01-01,1965-01-01,false
+kommune,1139,Hinderaa,11,Stavanger amt,1838-01-01,1881-01-01,false
+kommune,1139,Nedstrand,11,Rogaland,1881-01-01,1965-01-01,false
+kommune,1140,Sjernarøy,11,Rogaland,1868-01-01,1965-01-01,false
+kommune,1141,Finnøy,11,Rogaland,1838-01-01,2020-01-01,false
+kommune,1142,Rennesøy,11,Rogaland,1838-01-01,2020-01-01,false
+kommune,1143,Mosterøy,11,Rogaland,1885-01-01,1965-01-01,false
+kommune,1144,Kvitsøy,11,Rogaland,1923-01-01,,true
+kommune,1145,Bokn,11,Rogaland,1849-01-01,,true
+kommune,1146,Tysvær,11,Rogaland,1849-01-01,,true
+kommune,1147,Avaldsnes,11,Rogaland,1838-01-01,1965-01-01,false
+kommune,1148,Kopervik herred,11,Stavanger amt,1909-01-01,1917-01-01,false
+kommune,1148,Stangaland,11,Rogaland,1917-01-01,1965-01-01,false
+kommune,1149,Åkra,11,Rogaland,1892-01-01,1965-01-01,false
+kommune,1149,Karmøy,11,Rogaland,1965-01-01,,true
+kommune,1150,Skudenes,11,Rogaland,1838-01-01,1965-01-01,false
+kommune,1151,Utsira,11,Rogaland,1925-01-01,,true
+kommune,1152,Torvastad,11,Rogaland,1838-01-01,1965-01-01,false
+kommune,1153,Skåre,11,Rogaland,1882-01-01,1958-01-01,false
+kommune,1154,Skjold,11,Rogaland,1838-01-01,1965-01-01,false
+kommune,1154,Vindafjord,11,Rogaland,1965-01-01,2006-01-01,false
+kommune,1155,Vats,11,Rogaland,1891-01-01,1965-01-01,false
+kommune,1156,Imsland,11,Rogaland,1923-01-01,1965-01-01,false
+kommune,1157,Vikedal,11,Rogaland,1838-01-01,1965-01-01,false
+kommune,1158,Sandeid,11,Rogaland,1923-01-01,1965-01-01,false
+kommune,1159,Ølen,11,Rogaland,2002-01-01,2006-01-01,false
+kommune,1160,Vindafjord,11,Rogaland,2006-01-01,,true
+kommune,1201,Bergen,12,Hordaland,1972-01-01,2020-01-01,false
+kommune,1211,Etne,12,Hordaland,1838-01-01,2020-01-01,false
+kommune,1212,Skånevik,12,Hordaland,1838-01-01,1965-01-01,false
+kommune,1213,Fjelberg,12,Hordaland,1838-01-01,1965-01-01,false
+kommune,1214,Ølen,12,Hordaland,1917-01-01,2002-01-01,false
+kommune,1215,Vikebygd,12,Hordaland,1902-01-01,1964-01-01,false
+kommune,1216,Sveen,12,Søndre Bergenhus amt,1862-01-01,1912-01-01,false
+kommune,1216,Sveio,12,Hordaland,1912-01-01,2020-01-01,false
+kommune,1217,Valestrand,12,Hordaland,1869-01-01,1964-01-01,false
+kommune,1218,Finnås,12,Søndre Bergenhus amt,1838-01-01,1917-01-01,false
+kommune,1218,Moster,12,Hordaland,1917-01-01,1963-01-01,false
+kommune,1219,Bømlo,12,Hordaland,1917-01-01,2020-01-01,false
+kommune,1220,Bremnes,12,Hordaland,1917-01-01,1963-01-01,false
+kommune,1221,Stord,12,Hordaland,1838-01-01,2020-01-01,false
+kommune,1222,Fitjar,12,Hordaland,1863-01-01,2020-01-01,false
+kommune,1223,Tysnes,12,Hordaland,1838-01-01,2020-01-01,false
+kommune,1224,Kvinnherad,12,Hordaland,1838-01-01,2020-01-01,false
+kommune,1225,Varaldsøy,12,Hordaland,1902-01-01,1965-01-01,false
+kommune,1226,Strandebarm og Varaldsø,12,Søndre Bergenhus amt,1838-01-01,1902-01-01,false
+kommune,1226,Strandebarm,12,Hordaland,1902-01-01,1965-01-01,false
+kommune,1227,Jondal,12,Hordaland,1845-01-01,2020-01-01,false
+kommune,1228,Odda,12,Hordaland,1914-01-01,2020-01-01,false
+kommune,1229,Røldal,12,Hordaland,1838-01-01,1964-01-01,false
+kommune,1230,Kinsarvik,12,Søndre Bergenhus amt,1838-01-01,1870-01-01,false
+kommune,1230,Ullensvang,12,Hordaland,1870-01-01,1977-01-01,false
+kommune,1231,Kinsarvik,12,Hordaland,1914-01-01,1964-01-01,false
+kommune,1231,Ullensvang,12,Hordaland,1977-01-01,2020-01-01,false
+kommune,1232,Eidfjord,12,Hordaland,1892-01-01,1964-01-01,false
+kommune,1232,Eidfjord,12,Hordaland,1977-01-01,2020-01-01,false
+kommune,1233,Graven,12,Søndre Bergenhus amt,1838-01-01,1859-01-01,false
+kommune,1233,Ulvik,12,Hordaland,1859-01-01,2020-01-01,false
+kommune,1234,Granvin,12,Hordaland,1892-01-01,2020-01-01,false
+kommune,1235,Voss,12,Hordaland,1838-01-01,2020-01-01,false
+kommune,1236,Vossestrand,12,Hordaland,1868-01-01,1964-01-01,false
+kommune,1237,Evanger,12,Hordaland,1885-01-01,1964-01-01,false
+kommune,1238,Vikør,12,Søndre Bergenhus amt,1838-01-01,1912-01-01,false
+kommune,1238,Kvam (Hordaland),12,Hordaland,1912-01-01,1965-01-01,false
+kommune,1238,Kvam,12,Hordaland,1965-01-01,2020-01-01,false
+kommune,1239,Hålandsdal,12,Hordaland,1903-01-01,1964-01-01,false
+kommune,1240,Strandvik,12,Hordaland,1903-01-01,1964-01-01,false
+kommune,1241,Fusa,12,Hordaland,1856-01-01,2020-01-01,false
+kommune,1242,Samnanger,12,Hordaland,1907-01-01,2020-01-01,false
+kommune,1243,Os (Hordaland),12,Hordaland,1838-01-01,2020-01-01,false
+kommune,1244,Austevoll,12,Hordaland,1886-01-01,2020-01-01,false
+kommune,1245,Sund,12,Hordaland,1838-01-01,2020-01-01,false
+kommune,1246,Fjell,12,Hordaland,1838-01-01,2020-01-01,false
+kommune,1247,Askøy,12,Hordaland,1838-01-01,2020-01-01,false
+kommune,1248,Laksevåg,12,Hordaland,1919-01-01,1972-01-01,false
+kommune,1249,Fana,12,Hordaland,1838-01-01,1972-01-01,false
+kommune,1250,Haus,12,Hordaland,1838-01-01,1964-01-01,false
+kommune,1250,Arna,12,Hordaland,1964-01-01,1972-01-01,false
+kommune,1251,Bruvik,12,Hordaland,1870-01-01,1964-01-01,false
+kommune,1251,Vaksdal,12,Hordaland,1964-01-01,2020-01-01,false
+kommune,1252,Modalen,12,Hordaland,1910-01-01,2020-01-01,false
+kommune,1253,Hosanger,12,Hordaland,1838-01-01,1964-01-01,false
+kommune,1253,Osterøy,12,Hordaland,1964-01-01,2020-01-01,false
+kommune,1254,Hammer,12,Søndre Bergenhus amt,1838-01-01,1915-01-01,false
+kommune,1254,Hamre,12,Hordaland,1915-01-01,1964-01-01,false
+kommune,1255,Åsane,12,Hordaland,1904-01-01,1972-01-01,false
+kommune,1256,Meland,12,Hordaland,1924-01-01,2020-01-01,false
+kommune,1257,Alversund,12,Hordaland,1885-01-01,1964-01-01,false
+kommune,1258,Herdla,12,Hordaland,1871-01-01,1964-01-01,false
+kommune,1259,Hjelme,12,Hordaland,1910-01-01,1964-01-01,false
+kommune,1259,Øygarden,12,Hordaland,1964-01-01,2020-01-01,false
+kommune,1260,Bø (Hordaland),12,Hordaland,1925-01-01,1926-01-01,false
+kommune,1260,Hordabø,12,Hordaland,1926-01-01,1964-01-01,false
+kommune,1260,Radøy,12,Hordaland,1964-01-01,2020-01-01,false
+kommune,1261,Manger,12,Hordaland,1838-01-01,1964-01-01,false
+kommune,1262,Sæbø,12,Hordaland,1925-01-01,1964-01-01,false
+kommune,1263,Lindås,12,Hordaland,1838-01-01,2020-01-01,false
+kommune,1264,Austrheim,12,Hordaland,1910-01-01,2020-01-01,false
+kommune,1265,Masfjorden,12,Hordaland,1879-01-01,1948-01-01,false
+kommune,1265,Fedje,12,Hordaland,1948-01-01,2020-01-01,false
+kommune,1266,Masfjorden,12,Hordaland,1948-01-01,2020-01-01,false
+kommune,1280,Årstad,12,Søndre Bergenhus amt,1838-01-01,1916-01-01,false
+kommune,1281,Bergen landdistrikt,12,Søndre Bergenhus amt,1838-01-01,1877-01-01,false
+kommune,1282,Eid (Hordaland),12,Søndre Bergenhus amt,1838-01-01,1860-01-01,false
+kommune,1301,Bergen,13,Bergen,1838-01-01,1972-01-01,false
+kommune,1401,Florø,14,Nordre Bergenhus amt,1862-01-01,1964-01-01,false
+kommune,1401,Flora,14,Sogn og Fjordane,1964-01-01,2020-01-01,false
+kommune,1411,Evenvik,14,Nordre Bergenhus amt,1838-01-01,1891-01-01,false
+kommune,1411,Gulen,14,Nordre Bergenhus amt,1891-01-01,2020-01-01,false
+kommune,1412,Utvær,14,Nordre Bergenhus amt,1858-01-01,1891-01-01,false
+kommune,1412,Sulen,14,Nordre Bergenhus amt,1891-01-01,1924-01-01,false
+kommune,1412,Solund,14,Sogn og Fjordane,1924-01-01,2020-01-01,false
+kommune,1413,Hyllestad,14,Nordre Bergenhus amt,1862-01-01,2020-01-01,false
+kommune,1414,Brekke,14,Nordre Bergenhus amt,1850-01-01,1861-01-01,false
+kommune,1414,Brekke,14,Nordre Bergenhus amt,1905-01-01,1964-01-01,false
+kommune,1415,Lavik,14,Nordre Bergenhus amt,1838-01-01,1861-01-01,false
+kommune,1415,Lavik og Brekke,14,Nordre Bergenhus amt,1861-01-01,1905-01-01,false
+kommune,1415,Lavik,14,Nordre Bergenhus amt,1905-01-01,1964-01-01,false
+kommune,1416,Klævold,14,Nordre Bergenhus amt,1858-01-01,1891-01-01,false
+kommune,1416,Kyrkjebø,14,Nordre Bergenhus amt,1891-01-01,1964-01-01,false
+kommune,1416,Høyanger,14,Sogn og Fjordane,1964-01-01,2020-01-01,false
+kommune,1417,Vik,14,Nordre Bergenhus amt,1838-01-01,1839-01-01,false
+kommune,1417,Vik (Sogn og Fjordane),14,Nordre Bergenhus amt,1839-01-01,1840-01-01,false
+kommune,1417,Vik,14,Nordre Bergenhus amt,1840-01-01,1930-01-01,false
+kommune,1417,Vik (Sogn og Fjordane),14,Sogn og Fjordane,1930-01-01,1935-01-01,false
+kommune,1417,Vik,14,Sogn og Fjordane,1935-01-01,1937-01-01,false
+kommune,1417,Vik (Sogn og Fjordane),14,Sogn og Fjordane,1937-01-01,1964-01-01,false
+kommune,1417,Vik,14,Sogn og Fjordane,1964-01-01,2020-01-01,false
+kommune,1418,Balestrand,14,Nordre Bergenhus amt,1850-01-01,2020-01-01,false
+kommune,1419,Leikanger,14,Nordre Bergenhus amt,1838-01-01,2020-01-01,false
+kommune,1420,Sogndal (Sogn og Fjordane),14,Nordre Bergenhus amt,1838-01-01,2002-01-01,false
+kommune,1420,Sogndal,14,Sogn og Fjordane,2002-01-01,2003-01-01,false
+kommune,1420,Sogndal (Sogn og Fjordane),14,Sogn og Fjordane,2003-01-01,2005-01-01,false
+kommune,1420,Sogndal,14,Sogn og Fjordane,2005-01-01,2011-01-01,false
+kommune,1420,Sogndal (Sogn og Fjordane),14,Sogn og Fjordane,2011-01-01,2012-01-01,false
+kommune,1420,Sogndal,14,Sogn og Fjordane,2012-01-01,2015-01-01,false
+kommune,1420,Sogndal (Sogn og Fjordane),14,Sogn og Fjordane,2015-01-01,2017-01-01,false
+kommune,1420,Sogndal,14,Sogn og Fjordane,2017-01-01,2020-01-01,false
+kommune,1421,Aurland,14,Nordre Bergenhus amt,1838-01-01,2020-01-01,false
+kommune,1422,Lærdal,14,Nordre Bergenhus amt,1838-01-01,2020-01-01,false
+kommune,1423,Borgund (Sogn og Fjordane),14,Nordre Bergenhus amt,1864-01-01,1964-01-01,false
+kommune,1424,Årdal (Sogn og Fjordane),14,Nordre Bergenhus amt,1863-01-01,2002-01-01,false
+kommune,1424,Årdal,14,Sogn og Fjordane,2002-01-01,2003-01-01,false
+kommune,1424,Årdal (Sogn og Fjordane),14,Sogn og Fjordane,2003-01-01,2005-01-01,false
+kommune,1424,Årdal,14,Sogn og Fjordane,2005-01-01,2011-01-01,false
+kommune,1424,Årdal (Sogn og Fjordane),14,Sogn og Fjordane,2011-01-01,2012-01-01,false
+kommune,1424,Årdal,14,Sogn og Fjordane,2012-01-01,2015-01-01,false
+kommune,1424,Årdal (Sogn og Fjordane),14,Sogn og Fjordane,2015-01-01,2017-01-01,false
+kommune,1424,Årdal,14,Sogn og Fjordane,2017-01-01,2020-01-01,false
+kommune,1425,Hafslo,14,Nordre Bergenhus amt,1838-01-01,1963-01-01,false
+kommune,1426,Luster,14,Nordre Bergenhus amt,1838-01-01,2020-01-01,false
+kommune,1427,Jostedal,14,Nordre Bergenhus amt,1838-01-01,1963-01-01,false
+kommune,1428,Askvoll,14,Nordre Bergenhus amt,1838-01-01,2020-01-01,false
+kommune,1429,Ytre Holmedal,14,Nordre Bergenhus amt,1838-01-01,1913-01-01,false
+kommune,1429,Fjaler,14,Nordre Bergenhus amt,1913-01-01,2020-01-01,false
+kommune,1430,Indre Holmedal,14,Nordre Bergenhus amt,1838-01-01,1912-01-01,false
+kommune,1430,Gaular,14,Nordre Bergenhus amt,1912-01-01,2020-01-01,false
+kommune,1431,Jølster,14,Nordre Bergenhus amt,1838-01-01,2020-01-01,false
+kommune,1432,Førde,14,Nordre Bergenhus amt,1838-01-01,2020-01-01,false
+kommune,1433,Naustdal,14,Nordre Bergenhus amt,1896-01-01,2020-01-01,false
+kommune,1434,Vevring,14,Nordre Bergenhus amt,1838-01-01,1964-01-01,false
+kommune,1435,Eikefjord,14,Sogn og Fjordane,1923-01-01,1964-01-01,false
+kommune,1436,Bru,14,Sogn og Fjordane,1923-01-01,1964-01-01,false
+kommune,1437,Kinn,14,Nordre Bergenhus amt,1838-01-01,1964-01-01,false
+kommune,1438,Bremanger,14,Nordre Bergenhus amt,1866-01-01,2020-01-01,false
+kommune,1439,Sør-Vågsøy,14,Nordre Bergenhus amt,1910-01-01,1964-01-01,false
+kommune,1439,Vågsøy,14,Sogn og Fjordane,1964-01-01,2020-01-01,false
+kommune,1440,Nord-Vågsøy,14,Nordre Bergenhus amt,1910-01-01,1964-01-01,false
+kommune,1441,Selje,14,Nordre Bergenhus amt,1838-01-01,2020-01-01,false
+kommune,1442,Davik,14,Nordre Bergenhus amt,1838-01-01,1965-01-01,false
+kommune,1443,Eid (Sogn og Fjordane),14,Nordre Bergenhus amt,1838-01-01,2002-01-01,false
+kommune,1443,Eid,14,Sogn og Fjordane,2002-01-01,2003-01-01,false
+kommune,1443,Eid (Sogn og Fjordane),14,Sogn og Fjordane,2003-01-01,2005-01-01,false
+kommune,1443,Eid,14,Sogn og Fjordane,2005-01-01,2011-01-01,false
+kommune,1443,Eid (Sogn og Fjordane),14,Sogn og Fjordane,2011-01-01,2012-01-01,false
+kommune,1443,Eid,14,Sogn og Fjordane,2012-01-01,2015-01-01,false
+kommune,1443,Eid (Sogn og Fjordane),14,Sogn og Fjordane,2015-01-01,2017-01-01,false
+kommune,1443,Eid,14,Sogn og Fjordane,2017-01-01,2020-01-01,false
+kommune,1444,Hornindal,14,Nordre Bergenhus amt,1867-01-01,1965-01-01,false
+kommune,1444,Hornindal,14,Sogn og Fjordane,1977-01-01,2020-01-01,false
+kommune,1445,Gloppen,14,Nordre Bergenhus amt,1838-01-01,2020-01-01,false
+kommune,1446,Breim,14,Nordre Bergenhus amt,1886-01-01,1964-01-01,false
+kommune,1447,Innvik,14,Nordre Bergenhus amt,1838-01-01,1965-01-01,false
+kommune,1448,Stryn,14,Nordre Bergenhus amt,1843-01-01,1977-01-01,false
+kommune,1449,Stryn,14,Sogn og Fjordane,1977-01-01,2020-01-01,false
+kommune,1501,Ålesund,15,Romsdals amt,1838-01-01,1977-01-01,false
+kommune,1502,Molde,15,Romsdals amt,1838-01-01,2020-01-01,false
+kommune,1503,Kristiansund,15,Romsdals amt,1838-01-01,2008-01-01,false
+kommune,1504,Ålesund,15,Møre og Romsdal,1977-01-01,2020-01-01,false
+kommune,1505,Kristiansund,15,Møre og Romsdal,2008-01-01,,true
+kommune,1506,Molde,15,Møre og Romsdal,2020-01-01,,true
+kommune,1507,Ålesund,15,Møre og Romsdal,2020-01-01,2024-01-01,false
+kommune,1508,Ålesund,15,Møre og Romsdal,2024-01-01,,true
+kommune,1511,Vanylven,15,Romsdals amt,1838-01-01,,true
+kommune,1512,Syvde,15,Møre og Romsdal,1919-01-01,1964-01-01,false
+kommune,1513,Rovde,15,Romsdals amt,1905-01-01,1964-01-01,false
+kommune,1514,Sande (Møre og Romsdal),15,Romsdals amt,1867-01-01,2020-01-01,false
+kommune,1514,Sande,15,Møre og Romsdal,2020-01-01,,true
+kommune,1515,Herøy (Møre og Romsdal),15,Romsdals amt,1838-01-01,,true
+kommune,1516,Ulstein,15,Romsdals amt,1838-01-01,,true
+kommune,1517,Hareid,15,Romsdals amt,1917-01-01,,true
+kommune,1518,Dalsfjord,15,Møre og Romsdal,1925-01-01,1964-01-01,false
+kommune,1519,Volda,15,Romsdals amt,1838-01-01,2020-01-01,false
+kommune,1520,Ørsta,15,Romsdals amt,1884-01-01,,true
+kommune,1521,Vartdalsstranden,15,Romsdals amt,1895-01-01,1917-01-01,false
+kommune,1521,Vartdal,15,Romsdals amt,1917-01-01,1964-01-01,false
+kommune,1522,Hjørundfjord,15,Romsdals amt,1838-01-01,1964-01-01,false
+kommune,1523,Sunnylven,15,Romsdals amt,1838-01-01,1965-01-01,false
+kommune,1523,Ørskog,15,Møre og Romsdal,1977-01-01,2020-01-01,false
+kommune,1524,Norddal,15,Romsdals amt,1838-01-01,2020-01-01,false
+kommune,1525,Stranda,15,Romsdals amt,1838-01-01,,true
+kommune,1526,Stordal,15,Romsdals amt,1892-01-01,1965-01-01,false
+kommune,1526,Stordal,15,Møre og Romsdal,1977-01-01,2020-01-01,false
+kommune,1527,Ørskog,15,Romsdals amt,1838-01-01,1977-01-01,false
+kommune,1528,Sykkylven,15,Romsdals amt,1884-01-01,,true
+kommune,1529,Skodje,15,Romsdals amt,1849-01-01,1965-01-01,false
+kommune,1529,Skodje,15,Møre og Romsdal,1977-01-01,2020-01-01,false
+kommune,1530,Vatne,15,Romsdals amt,1902-01-01,1965-01-01,false
+kommune,1531,Borgund (Møre og Romsdal),15,Romsdals amt,1838-01-01,1968-01-01,false
+kommune,1531,Sula,15,Møre og Romsdal,1977-01-01,,true
+kommune,1532,Giske,15,Romsdals amt,1908-01-01,,true
+kommune,1533,Roald,15,Romsdals amt,1890-01-01,1911-01-01,false
+kommune,1533,Vigra,15,Romsdals amt,1911-01-01,1964-01-01,false
+kommune,1534,Haram,15,Romsdals amt,1838-01-01,2020-01-01,false
+kommune,1535,Vestnes,15,Romsdals amt,1838-01-01,,true
+kommune,1536,Sylte,15,Romsdals amt,1899-01-01,1923-01-01,false
+kommune,1536,Tresfjord,15,Møre og Romsdal,1923-01-01,1964-01-01,false
+kommune,1537,Eid og Voll,15,Romsdals amt,1838-01-01,1874-01-01,false
+kommune,1537,Voll,15,Romsdals amt,1874-01-01,1964-01-01,false
+kommune,1538,Eid (Møre og Romsdal),15,Romsdals amt,1874-01-01,1964-01-01,false
+kommune,1539,Grytten,15,Romsdals amt,1838-01-01,1964-01-01,false
+kommune,1539,Rauma,15,Møre og Romsdal,1964-01-01,,true
+kommune,1540,Hen,15,Romsdals amt,1902-01-01,1964-01-01,false
+kommune,1541,Veøy,15,Romsdals amt,1838-01-01,1964-01-01,false
+kommune,1542,Eresfjord og Vistdal,15,Romsdals amt,1890-01-01,1964-01-01,false
+kommune,1543,Nesset,15,Romsdals amt,1838-01-01,2020-01-01,false
+kommune,1544,Bolsøy,15,Romsdals amt,1838-01-01,1964-01-01,false
+kommune,1545,Aukra,15,Romsdals amt,1838-01-01,1924-01-01,false
+kommune,1545,Sør-Aukra,15,Møre og Romsdal,1924-01-01,1965-01-01,false
+kommune,1545,Midsund,15,Møre og Romsdal,1965-01-01,2020-01-01,false
+kommune,1546,Sandøy,15,Romsdals amt,1867-01-01,2020-01-01,false
+kommune,1547,Nord-Aukra,15,Møre og Romsdal,1924-01-01,1965-01-01,false
+kommune,1547,Aukra,15,Møre og Romsdal,1965-01-01,,true
+kommune,1548,Fræna,15,Romsdals amt,1838-01-01,2020-01-01,false
+kommune,1549,Bud,15,Romsdals amt,1838-01-01,1964-01-01,false
+kommune,1550,Hustad (Møre og Romsdal),15,Møre og Romsdal,1919-01-01,1964-01-01,false
+kommune,1551,Eide (Møre og Romsdal),15,Romsdals amt,1897-01-01,2002-01-01,false
+kommune,1551,Eide,15,Møre og Romsdal,2002-01-01,2003-01-01,false
+kommune,1551,Eide (Møre og Romsdal),15,Møre og Romsdal,2003-01-01,2005-01-01,false
+kommune,1551,Eide,15,Møre og Romsdal,2005-01-01,2011-01-01,false
+kommune,1551,Eide (Møre og Romsdal),15,Møre og Romsdal,2011-01-01,2012-01-01,false
+kommune,1551,Eide,15,Møre og Romsdal,2012-01-01,2015-01-01,false
+kommune,1551,Eide (Møre og Romsdal),15,Møre og Romsdal,2015-01-01,2017-01-01,false
+kommune,1551,Eide,15,Møre og Romsdal,2017-01-01,2020-01-01,false
+kommune,1552,Kornstad,15,Romsdals amt,1897-01-01,1964-01-01,false
+kommune,1553,Kvernes,15,Romsdals amt,1838-01-01,1964-01-01,false
+kommune,1554,Bremsnes,15,Romsdals amt,1897-01-01,1964-01-01,false
+kommune,1554,Averøy,15,Møre og Romsdal,1964-01-01,,true
+kommune,1555,Grip,15,Romsdals amt,1897-01-01,1964-01-01,false
+kommune,1556,Frei,15,Romsdals amt,1838-01-01,2008-01-01,false
+kommune,1557,Gjemnes,15,Romsdals amt,1894-01-01,,true
+kommune,1558,Øre,15,Romsdals amt,1838-01-01,1965-01-01,false
+kommune,1559,Straumsnes,15,Romsdals amt,1866-01-01,1964-01-01,false
+kommune,1560,Tingvoll,15,Romsdals amt,1838-01-01,,true
+kommune,1561,Øksendal,15,Romsdals amt,1854-01-01,1960-01-01,false
+kommune,1562,Ålvundeid,15,Romsdals amt,1899-01-01,1960-01-01,false
+kommune,1563,Sunndal,15,Romsdals amt,1838-01-01,,true
+kommune,1564,Stangvik,15,Romsdals amt,1838-01-01,1965-01-01,false
+kommune,1565,Åsskard,15,Romsdals amt,1896-01-01,1965-01-01,false
+kommune,1566,Surnadal,15,Romsdals amt,1838-01-01,,true
+kommune,1567,Rindal,15,Romsdals amt,1858-01-01,2019-01-01,false
+kommune,1568,Stemshaug,15,Romsdals amt,1915-01-01,1965-01-01,false
+kommune,1569,Aure,15,Romsdals amt,1838-01-01,2006-01-01,false
+kommune,1570,Valsøyfjord,15,Romsdals amt,1894-01-01,1965-01-01,false
+kommune,1571,Halsa,15,Romsdals amt,1838-01-01,2020-01-01,false
+kommune,1572,Tustna,15,Romsdals amt,1874-01-01,2006-01-01,false
+kommune,1573,Edøy,15,Romsdals amt,1838-01-01,1960-01-01,false
+kommune,1573,Smøla,15,Møre og Romsdal,1960-01-01,,true
+kommune,1574,Brattvær,15,Romsdals amt,1915-01-01,1960-01-01,false
+kommune,1575,Hopen,15,Romsdals amt,1915-01-01,1960-01-01,false
+kommune,1576,Aure,15,Møre og Romsdal,2006-01-01,,true
+kommune,1577,Volda,15,Møre og Romsdal,2020-01-01,,true
+kommune,1578,Fjord,15,Møre og Romsdal,2020-01-01,,true
+kommune,1579,Hustadvika,15,Møre og Romsdal,2020-01-01,,true
+kommune,1580,Haram,15,Møre og Romsdal,2024-01-01,,true
+kommune,1601,Trondhjem,16,Søndre Trondhjems amt,1838-01-01,1964-01-01,false
+kommune,1601,Trondheim,16,Sør-Trøndelag,1964-01-01,2018-01-01,false
+kommune,1611,Vinje (Sør-Trøndelag),16,Sør-Trøndelag,1925-01-01,1964-01-01,false
+kommune,1612,Hemne,16,Søndre Trondhjems amt,1838-01-01,2018-01-01,false
+kommune,1613,Snillfjord,16,Sør-Trøndelag,1925-01-01,2018-01-01,false
+kommune,1614,Heim,16,Søndre Trondhjems amt,1911-01-01,1964-01-01,false
+kommune,1615,Sandstad,16,Søndre Trondhjems amt,1915-01-01,1964-01-01,false
+kommune,1616,Fillan,16,Søndre Trondhjems amt,1886-01-01,1964-01-01,false
+kommune,1617,Hitra,16,Søndre Trondhjems amt,1838-01-01,2018-01-01,false
+kommune,1618,Kvenvær,16,Søndre Trondhjems amt,1913-01-01,1964-01-01,false
+kommune,1619,Frøya,16,Søndre Trondhjems amt,1877-01-01,1906-01-01,false
+kommune,1619,Sør-Frøya,16,Søndre Trondhjems amt,1906-01-01,1964-01-01,false
+kommune,1620,Nord-Frøya,16,Søndre Trondhjems amt,1906-01-01,1964-01-01,false
+kommune,1620,Frøya,16,Sør-Trøndelag,1964-01-01,2018-01-01,false
+kommune,1621,Ørland,16,Søndre Trondhjems amt,1838-01-01,2018-01-01,false
+kommune,1622,Værnes,16,Søndre Trondhjems amt,1896-01-01,1897-01-01,false
+kommune,1622,Agdenes,16,Søndre Trondhjems amt,1897-01-01,2018-01-01,false
+kommune,1623,Lensvik,16,Søndre Trondhjems amt,1905-01-01,1964-01-01,false
+kommune,1624,Rissa,16,Søndre Trondhjems amt,1860-01-01,2018-01-01,false
+kommune,1625,Stadsbygd,16,Søndre Trondhjems amt,1838-01-01,1964-01-01,false
+kommune,1626,Stjørna,16,Søndre Trondhjems amt,1899-01-01,1964-01-01,false
+kommune,1627,Bjugn,16,Søndre Trondhjems amt,1853-01-01,2018-01-01,false
+kommune,1628,Nes (Sør-Trøndelag),16,Søndre Trondhjems amt,1899-01-01,1964-01-01,false
+kommune,1629,Jøssund,16,Søndre Trondhjems amt,1896-01-01,1964-01-01,false
+kommune,1630,Å,16,Søndre Trondhjems amt,1838-01-01,1935-01-01,false
+kommune,1630,Åfjord,16,Sør-Trøndelag,1935-01-01,2018-01-01,false
+kommune,1631,Stoksund,16,Søndre Trondhjems amt,1893-01-01,1964-01-01,false
+kommune,1632,Bjørnør,16,Søndre Trondhjems amt,1838-01-01,1893-01-01,false
+kommune,1632,Roan,16,Søndre Trondhjems amt,1893-01-01,2018-01-01,false
+kommune,1633,Osen,16,Søndre Trondhjems amt,1893-01-01,2018-01-01,false
+kommune,1634,Oppdal,16,Søndre Trondhjems amt,1838-01-01,2018-01-01,false
+kommune,1635,Rennebu,16,Søndre Trondhjems amt,1839-01-01,2018-01-01,false
+kommune,1636,Meldal,16,Søndre Trondhjems amt,1838-01-01,2018-01-01,false
+kommune,1637,Orkland,16,Sør-Trøndelag,1921-01-01,1963-01-01,false
+kommune,1638,Orkdal,16,Søndre Trondhjems amt,1838-01-01,2018-01-01,false
+kommune,1639,Orkanger,16,Sør-Trøndelag,1921-01-01,1963-01-01,false
+kommune,1640,Røros,16,Søndre Trondhjems amt,1838-01-01,1927-01-01,false
+kommune,1640,Røros bergstad,16,Sør-Trøndelag,1927-01-01,1964-01-01,false
+kommune,1640,Røros,16,Sør-Trøndelag,1964-01-01,2018-01-01,false
+kommune,1641,Røros landsogn,16,Sør-Trøndelag,1927-01-01,1964-01-01,false
+kommune,1642,Brekken,16,Sør-Trøndelag,1927-01-01,1964-01-01,false
+kommune,1643,Glåmos,16,Sør-Trøndelag,1927-01-01,1964-01-01,false
+kommune,1644,Ålen,16,Søndre Trondhjems amt,1855-01-01,1972-01-01,false
+kommune,1644,Holtålen,16,Sør-Trøndelag,1972-01-01,2018-01-01,false
+kommune,1645,Holtaalen,16,Søndre Trondhjems amt,1838-01-01,1937-01-01,false
+kommune,1645,Haltdalen,16,Sør-Trøndelag,1937-01-01,1972-01-01,false
+kommune,1646,Singsås,16,Søndre Trondhjems amt,1841-01-01,1964-01-01,false
+kommune,1647,Budal,16,Søndre Trondhjems amt,1879-01-01,1964-01-01,false
+kommune,1648,Støren,16,Søndre Trondhjems amt,1838-01-01,1964-01-01,false
+kommune,1648,Midtre Gauldal,16,Sør-Trøndelag,1964-01-01,2018-01-01,false
+kommune,1649,Soknedal,16,Søndre Trondhjems amt,1841-01-01,1964-01-01,false
+kommune,1650,Horg,16,Søndre Trondhjems amt,1841-01-01,1964-01-01,false
+kommune,1651,Høilandet,16,Søndre Trondhjems amt,1865-01-01,1932-01-01,false
+kommune,1651,Hølonda,16,Sør-Trøndelag,1932-01-01,1964-01-01,false
+kommune,1652,Flå (Sør-Trøndelag),16,Søndre Trondhjems amt,1880-01-01,1964-01-01,false
+kommune,1653,Melhus,16,Søndre Trondhjems amt,1838-01-01,2018-01-01,false
+kommune,1654,Leinstrand,16,Søndre Trondhjems amt,1838-01-01,1964-01-01,false
+kommune,1655,Byneset,16,Søndre Trondhjems amt,1838-01-01,1964-01-01,false
+kommune,1656,Buvik,16,Søndre Trondhjems amt,1855-01-01,1965-01-01,false
+kommune,1657,Børseskognen,16,Søndre Trondhjems amt,1890-01-01,1930-01-01,false
+kommune,1657,Skaun,16,Sør-Trøndelag,1930-01-01,2018-01-01,false
+kommune,1658,Børsa,16,Søndre Trondhjems amt,1838-01-01,1965-01-01,false
+kommune,1659,Geitastrand,16,Søndre Trondhjems amt,1905-01-01,1963-01-01,false
+kommune,1660,Strinda,16,Søndre Trondhjems amt,1838-01-01,1964-01-01,false
+kommune,1661,Tiller,16,Søndre Trondhjems amt,1899-01-01,1964-01-01,false
+kommune,1662,Klæbu,16,Søndre Trondhjems amt,1838-01-01,2018-01-01,false
+kommune,1663,Malvik,16,Søndre Trondhjems amt,1891-01-01,2018-01-01,false
+kommune,1664,Selbu,16,Søndre Trondhjems amt,1838-01-01,2018-01-01,false
+kommune,1665,Tydal,16,Søndre Trondhjems amt,1901-01-01,2018-01-01,false
+kommune,1701,Levanger,17,Nord-Trøndelag,1838-01-01,1962-01-01,false
+kommune,1702,Steinkjer,17,Nord-Trøndelag,1859-01-01,2018-01-01,false
+kommune,1703,Namsos,17,Nord-Trøndelag,1866-01-01,2018-01-01,false
+kommune,1711,Øvre Stjørdal,17,Nordre Trondhjems amt,1850-01-01,1874-01-01,false
+kommune,1711,Meråker,17,Nord-Trøndelag,1874-01-01,2018-01-01,false
+kommune,1712,Hegra,17,Nord-Trøndelag,1874-01-01,1962-01-01,false
+kommune,1713,Lånke,17,Nord-Trøndelag,1902-01-01,1962-01-01,false
+kommune,1714,Stjørdalen,17,Nordre Trondhjems amt,1838-01-01,1850-01-01,false
+kommune,1714,Nedre Stjørdal,17,Nordre Trondhjems amt,1850-01-01,1902-01-01,false
+kommune,1714,Stjørdal,17,Nord-Trøndelag,1902-01-01,2018-01-01,false
+kommune,1715,Skatval,17,Nord-Trøndelag,1902-01-01,1962-01-01,false
+kommune,1716,Åsen,17,Nord-Trøndelag,1838-01-01,1962-01-01,false
+kommune,1717,Frosta,17,Nord-Trøndelag,1838-01-01,2018-01-01,false
+kommune,1718,Leksvik,17,Nord-Trøndelag,1838-01-01,2018-01-01,false
+kommune,1719,Skogn,17,Nord-Trøndelag,1838-01-01,1962-01-01,false
+kommune,1719,Levanger,17,Nord-Trøndelag,1962-01-01,2018-01-01,false
+kommune,1720,Frol,17,Nord-Trøndelag,1856-01-01,1962-01-01,false
+kommune,1721,Verdal,17,Nord-Trøndelag,1838-01-01,2018-01-01,false
+kommune,1722,Ytterøy,17,Nord-Trøndelag,1838-01-01,1964-01-01,false
+kommune,1723,Mosvik og Verran,17,Nordre Trondhjems amt,1867-01-01,1901-01-01,false
+kommune,1723,Mosvik,17,Nord-Trøndelag,1901-01-01,2012-01-01,false
+kommune,1724,Verran,17,Nord-Trøndelag,1901-01-01,2018-01-01,false
+kommune,1725,Namdalseid,17,Nord-Trøndelag,1904-01-01,2018-01-01,false
+kommune,1726,Malm,17,Nord-Trøndelag,1914-01-01,1964-01-01,false
+kommune,1727,Beitstad,17,Nord-Trøndelag,1838-01-01,1964-01-01,false
+kommune,1728,Hustad (Nord-Trøndelag),17,Nordre Trondhjems amt,1907-01-01,1912-01-01,false
+kommune,1728,Sandvollan,17,Nord-Trøndelag,1912-01-01,1962-01-01,false
+kommune,1729,Inderøy,17,Nord-Trøndelag,1838-01-01,2012-01-01,false
+kommune,1730,Røra,17,Nord-Trøndelag,1907-01-01,1962-01-01,false
+kommune,1731,Sparbu,17,Nord-Trøndelag,1838-01-01,1964-01-01,false
+kommune,1732,Skei,17,Nordre Trondhjems amt,1885-01-01,1901-01-01,false
+kommune,1732,Ogndal,17,Nord-Trøndelag,1901-01-01,1964-01-01,false
+kommune,1733,Egge,17,Nord-Trøndelag,1869-01-01,1964-01-01,false
+kommune,1734,Stod,17,Nord-Trøndelag,1838-01-01,1964-01-01,false
+kommune,1735,Kvam (Nord-Trøndelag),17,Nord-Trøndelag,1909-01-01,1964-01-01,false
+kommune,1736,Snåsa,17,Nord-Trøndelag,1838-01-01,2011-01-01,false
+kommune,1736,Snåase,17,Nord-Trøndelag,2011-01-01,2018-01-01,false
+kommune,1737,Lierne,17,Nordre Trondhjems amt,1874-01-01,1916-01-01,false
+kommune,1737,Sørli,17,Nord-Trøndelag,1916-01-01,1964-01-01,false
+kommune,1738,Nordli,17,Nord-Trøndelag,1916-01-01,1964-01-01,false
+kommune,1738,Lierne,17,Nord-Trøndelag,1964-01-01,2018-01-01,false
+kommune,1739,Røyrvik,17,Nord-Trøndelag,1924-01-01,2015-01-01,false
+kommune,1739,Raarvihke,17,Nord-Trøndelag,2015-01-01,2018-01-01,false
+kommune,1740,Namsskogan,17,Nord-Trøndelag,1924-01-01,2018-01-01,false
+kommune,1741,Harran,17,Nord-Trøndelag,1924-01-01,1964-01-01,false
+kommune,1742,Grong,17,Nord-Trøndelag,1838-01-01,2018-01-01,false
+kommune,1743,Høylandet,17,Nord-Trøndelag,1901-01-01,2018-01-01,false
+kommune,1744,Overhalden,17,Nordre Trondhjems amt,1838-01-01,1860-01-01,false
+kommune,1744,Overhalla,17,Nord-Trøndelag,1860-01-01,2018-01-01,false
+kommune,1745,Sævik,17,Nordre Trondhjems amt,1838-01-01,1846-01-01,false
+kommune,1745,Namsos Landdistrikt,17,Nordre Trondhjems amt,1860-01-01,1866-01-01,false
+kommune,1745,Namsos landdistrikt,17,Nordre Trondhjems amt,1866-01-01,1891-01-01,false
+kommune,1745,Vemundvik,17,Nord-Trøndelag,1891-01-01,1964-01-01,false
+kommune,1746,Klinga,17,Nord-Trøndelag,1891-01-01,1964-01-01,false
+kommune,1747,Otterøy,17,Nord-Trøndelag,1913-01-01,1964-01-01,false
+kommune,1748,Fosnes,17,Nord-Trøndelag,1838-01-01,2018-01-01,false
+kommune,1749,Flatanger,17,Nord-Trøndelag,1871-01-01,2018-01-01,false
+kommune,1750,Vikna,17,Nord-Trøndelag,1870-01-01,2018-01-01,false
+kommune,1751,Nærøy,17,Nord-Trøndelag,1838-01-01,2018-01-01,false
+kommune,1752,Kolvereid,17,Nord-Trøndelag,1838-01-01,1964-01-01,false
+kommune,1753,Foldereid,17,Nord-Trøndelag,1887-01-01,1964-01-01,false
+kommune,1754,Gravvik,17,Nord-Trøndelag,1909-01-01,1964-01-01,false
+kommune,1755,Leka,17,Nord-Trøndelag,1860-01-01,2018-01-01,false
+kommune,1756,Inderøy,17,Nord-Trøndelag,2012-01-01,2018-01-01,false
+kommune,1780,Sørbindalen,17,Nordre Trondhjems amt,1838-01-01,1852-01-01,false
+kommune,1801,Brønnøysund,18,Nordland,1923-01-01,1964-01-01,false
+kommune,1802,Mosjøen,18,Nordland,1876-01-01,1962-01-01,false
+kommune,1803,Mo (Nordland),18,Nordland,1923-01-01,1964-01-01,false
+kommune,1804,Bodø,18,Nordland,1838-01-01,,true
+kommune,1805,Narvik,18,Nordland,1902-01-01,2020-01-01,false
+kommune,1806,Svolvær,18,Nordland,1919-01-01,1964-01-01,false
+kommune,1806,Narvik,18,Nordland,2020-01-01,,true
+kommune,1811,Nordbindalen,18,Nordlands amt,1838-01-01,1852-01-01,false
+kommune,1811,Bindal,18,Nordland,1852-01-01,,true
+kommune,1812,Vik (Nordland),18,Nordland,1901-01-01,1941-01-01,false
+kommune,1812,Sømna,18,Nordland,1941-01-01,1964-01-01,false
+kommune,1812,Sømna,18,Nordland,1977-01-01,,true
+kommune,1813,Velfjord,18,Nordland,1876-01-01,1964-01-01,false
+kommune,1813,Brønnøy,18,Nordland,1977-01-01,,true
+kommune,1814,Brønnøy,18,Nordland,1838-01-01,1977-01-01,false
+kommune,1815,Vega,18,Nordland,1838-01-01,,true
+kommune,1816,Vevelstad,18,Nordland,1917-01-01,,true
+kommune,1817,Tjøtta,18,Nordland,1862-01-01,1965-01-01,false
+kommune,1818,Herøy (Nordland),18,Nordland,1864-01-01,,true
+kommune,1819,Nordvik,18,Nordland,1918-01-01,1962-01-01,false
+kommune,1820,Alstahaug,18,Nordland,1838-01-01,,true
+kommune,1821,Stamnes,18,Nordland,1900-01-01,1949-01-01,false
+kommune,1821,Sandnessjøen,18,Nordland,1949-01-01,1965-01-01,false
+kommune,1822,Leirfjord,18,Nordland,1916-01-01,,true
+kommune,1823,Drevja,18,Nordland,1928-01-01,1962-01-01,false
+kommune,1824,Vefsn,18,Nordland,1838-01-01,,true
+kommune,1825,Grane,18,Nordland,1928-01-01,,true
+kommune,1826,Hattfjelldal,18,Nordland,1862-01-01,2020-01-01,false
+kommune,1826,Aarborte,18,Nordland,2020-01-01,,true
+kommune,1827,Dønnes,18,Nordland,1889-01-01,1962-01-01,false
+kommune,1827,Dønna,18,Nordland,1962-01-01,,true
+kommune,1828,Nesna,18,Nordland,1838-01-01,,true
+kommune,1829,Elsfjord,18,Nordland,1930-01-01,1962-01-01,false
+kommune,1830,Korgen,18,Nordland,1919-01-01,1964-01-01,false
+kommune,1831,Sør-Rana,18,Nordland,1930-01-01,1964-01-01,false
+kommune,1832,Hemnes,18,Nordland,1840-01-01,,true
+kommune,1833,Ranen,18,Nordlands amt,1838-01-01,1840-01-01,false
+kommune,1833,Mo (Nordland),18,Nordland,1840-01-01,1923-01-01,false
+kommune,1833,Nord-Rana,18,Nordland,1923-01-01,1964-01-01,false
+kommune,1833,Rana,18,Nordland,1964-01-01,2024-01-01,false
+kommune,1833,Rana,18,Nordland,2024-01-01,,true
+kommune,1834,Lurøy,18,Nordland,1838-01-01,,true
+kommune,1835,Træna,18,Nordland,1872-01-01,,true
+kommune,1836,Rødøy,18,Nordland,1838-01-01,,true
+kommune,1837,Meløy,18,Nordland,1884-01-01,,true
+kommune,1838,Gildeskål,18,Nordland,1838-01-01,,true
+kommune,1839,Beiarn,18,Nordland,1853-01-01,,true
+kommune,1840,Saltdal,18,Nordland,1838-01-01,,true
+kommune,1841,Fauske,18,Nordland,1905-01-01,2017-01-01,false
+kommune,1841,Fauske,18,Nordland,2017-01-01,,true
+kommune,1842,Skjerstad,18,Nordland,1838-01-01,2005-01-01,false
+kommune,1843,Bodin,18,Nordland,1838-01-01,1968-01-01,false
+kommune,1844,Kjerringøy,18,Nordland,1906-01-01,1964-01-01,false
+kommune,1845,Folden,18,Nordlands amt,1838-01-01,1887-01-01,false
+kommune,1845,Sørfold,18,Nordland,1887-01-01,2024-01-01,false
+kommune,1845,Sørfold,18,Nordland,2024-01-01,,true
+kommune,1846,Norfold-Kjerringøy,18,Nordlands amt,1887-01-01,1906-01-01,false
+kommune,1846,Norfold,18,Nordland,1906-01-01,1964-01-01,false
+kommune,1847,Ledingen,18,Nordlands amt,1901-01-01,1910-01-01,false
+kommune,1847,Leiranger,18,Nordland,1910-01-01,1964-01-01,false
+kommune,1848,Steigen,18,Nordland,1838-01-01,,true
+kommune,1849,Hamarøy,18,Nordland,1838-01-01,2012-01-01,false
+kommune,1849,Hábmer,18,Nordland,2012-01-01,2020-01-01,false
+kommune,1850,Tysfjord,18,Nordland,1869-01-01,2012-01-01,false
+kommune,1850,Tysfjord,18,Nordland,2012-01-01,2020-01-01,false
+kommune,1851,Lødingen,18,Nordland,1838-01-01,,true
+kommune,1852,Tjeldsund,18,Nordland,1909-01-01,2018-01-01,false
+kommune,1852,Dielddanuorri,18,Nordland,2018-01-01,2020-01-01,false
+kommune,1853,Ofoten,18,Nordlands amt,1838-01-01,1884-01-01,false
+kommune,1853,Evenes,18,Nordland,1884-01-01,2022-01-01,false
+kommune,1853,Evenes,18,Nordland,2022-01-01,,true
+kommune,1854,Ballangen,18,Nordland,1926-01-01,2020-01-01,false
+kommune,1855,Ankenes,18,Nordland,1884-01-01,1974-01-01,false
+kommune,1856,Røst,18,Nordland,1929-01-01,,true
+kommune,1857,Værøy,18,Nordland,1838-01-01,,true
+kommune,1858,Moskenes,18,Nordland,1917-01-01,1976-01-01,false
+kommune,1859,Flakstad,18,Nordland,1838-01-01,1964-01-01,false
+kommune,1859,Flakstad,18,Nordland,1976-01-01,,true
+kommune,1860,Buksnes,18,Nordland,1838-01-01,1963-01-01,false
+kommune,1860,Vestvågøy,18,Nordland,1963-01-01,,true
+kommune,1861,Hol (Nordland),18,Nordland,1920-01-01,1963-01-01,false
+kommune,1862,Borge (Nordland),18,Nordland,1838-01-01,1963-01-01,false
+kommune,1863,Valberg,18,Nordland,1928-01-01,1963-01-01,false
+kommune,1864,Gimsøy,18,Nordland,1856-01-01,1964-01-01,false
+kommune,1865,Vågan,18,Nordland,1838-01-01,,true
+kommune,1866,Hadsel,18,Nordland,1838-01-01,,true
+kommune,1867,Bø (Nordland),18,Nordland,1838-01-01,2020-01-01,false
+kommune,1867,Bø,18,Nordland,2020-01-01,,true
+kommune,1868,Øksnes,18,Nordland,1838-01-01,,true
+kommune,1869,Langenes,18,Nordland,1920-01-01,1964-01-01,false
+kommune,1870,Sortland,18,Nordland,1842-01-01,2018-01-01,false
+kommune,1870,Sortland,18,Nordland,2018-01-01,,true
+kommune,1871,Bjørnskinn,18,Nordland,1924-01-01,1964-01-01,false
+kommune,1871,Andøy,18,Nordland,1964-01-01,,true
+kommune,1872,Dverberg,18,Nordland,1838-01-01,1964-01-01,false
+kommune,1873,Andenes,18,Nordland,1924-01-01,1964-01-01,false
+kommune,1874,Moskenes,18,Nordland,1976-01-01,,true
+kommune,1875,Hábmer,18,Nordland,2020-01-01,,true
+kommune,1901,Harstad,19,Troms,1904-01-01,2013-01-01,false
+kommune,1902,Tromsø,19,Troms,1867-01-01,2020-01-01,false
+kommune,1903,Harstad,19,Troms,2013-01-01,2018-01-01,false
+kommune,1903,Harstad,19,Troms,2018-01-01,2020-01-01,false
+kommune,1911,Kvæfjord,19,Troms,1867-01-01,2020-01-01,false
+kommune,1912,Sandtorg,19,Troms,1927-01-01,1964-01-01,false
+kommune,1913,Skånland,19,Troms,1927-01-01,2020-01-01,false
+kommune,1914,Trondenes,19,Tromsø amt,1867-01-01,1964-01-01,false
+kommune,1915,Sand (Troms),19,Tromsø amt,1867-01-01,1887-01-01,false
+kommune,1915,Bjarkøy,19,Troms,1887-01-01,2013-01-01,false
+kommune,1916,Andørja,19,Troms,1927-01-01,1964-01-01,false
+kommune,1917,Ibestad,19,Troms,1867-01-01,2020-01-01,false
+kommune,1918,Astafjord,19,Troms,1927-01-01,1964-01-01,false
+kommune,1919,Gratangen,19,Troms,1927-01-01,2020-01-01,false
+kommune,1920,Lavangen,19,Tromsø amt,1907-01-01,1964-01-01,false
+kommune,1920,Lavangen,19,Troms,1977-01-01,2015-01-01,false
+kommune,1920,Loabák,19,Troms,2015-01-01,2020-01-01,false
+kommune,1921,Salangen,19,Tromsø amt,1871-01-01,1977-01-01,false
+kommune,1922,Bardu,19,Troms,1867-01-01,2020-01-01,false
+kommune,1923,Øverbygd,19,Troms,1926-01-01,1964-01-01,false
+kommune,1923,Salangen,19,Troms,1977-01-01,2020-01-01,false
+kommune,1924,Målselv,19,Troms,1867-01-01,2020-01-01,false
+kommune,1925,Sørreisa,19,Troms,1887-01-01,2020-01-01,false
+kommune,1926,Dyrøy,19,Troms,1887-01-01,2020-01-01,false
+kommune,1927,Tranøy,19,Troms,1867-01-01,2020-01-01,false
+kommune,1928,Torsken,19,Troms,1902-01-01,2020-01-01,false
+kommune,1929,Berg (Troms),19,Tromsø amt,1867-01-01,2002-01-01,false
+kommune,1929,Berg,19,Troms,2002-01-01,2003-01-01,false
+kommune,1929,Berg (Troms),19,Troms,2003-01-01,2005-01-01,false
+kommune,1929,Berg,19,Troms,2005-01-01,2011-01-01,false
+kommune,1929,Berg (Troms),19,Troms,2011-01-01,2012-01-01,false
+kommune,1929,Berg,19,Troms,2012-01-01,2015-01-01,false
+kommune,1929,Berg (Troms),19,Troms,2015-01-01,2017-01-01,false
+kommune,1929,Berg,19,Troms,2017-01-01,2020-01-01,false
+kommune,1930,Hillesøy,19,Tromsø amt,1867-01-01,1964-01-01,false
+kommune,1931,Lenvik,19,Troms,1867-01-01,2020-01-01,false
+kommune,1932,Malangen,19,Tromsø amt,1871-01-01,1964-01-01,false
+kommune,1933,Balsfjord,19,Troms,1867-01-01,2020-01-01,false
+kommune,1934,Tromsøysund,19,Tromsø amt,1867-01-01,1964-01-01,false
+kommune,1935,Helgøy,19,Tromsø amt,1887-01-01,1964-01-01,false
+kommune,1936,Karlsøy,19,Troms,1867-01-01,2020-01-01,false
+kommune,1937,Sørfjord,19,Tromsø amt,1902-01-01,1938-01-01,false
+kommune,1937,Ullsfjord,19,Troms,1938-01-01,1964-01-01,false
+kommune,1938,Lyngen,19,Troms,1867-01-01,2020-01-01,false
+kommune,1939,Storfjord,19,Troms,1930-01-01,2015-01-01,false
+kommune,1939,Storfjord,19,Troms,2015-01-01,2020-01-01,false
+kommune,1940,Kåfjord,19,Troms,1930-01-01,1995-01-01,false
+kommune,1940,Gáivuotna,19,Troms,1995-01-01,2018-01-01,false
+kommune,1940,Gáivuotna,19,Troms,2018-01-01,2020-01-01,false
+kommune,1941,Skjervøy,19,Troms,1867-01-01,2020-01-01,false
+kommune,1942,Nordreisa,19,Troms,1886-01-01,2019-01-01,false
+kommune,1942,Nordreisa,19,Troms,2019-01-01,2020-01-01,false
+kommune,1943,Kvænangen,19,Troms,1867-01-01,2020-01-01,false
+kommune,2001,Hammerfest by og landsogn,20,Finnmarkens amt,1838-01-01,1852-01-01,false
+kommune,2001,Hammerfest by,20,Finnmarkens amt,1852-01-01,1992-01-01,false
+kommune,2002,Vardø,20,Finnmarkens amt,1838-01-01,2020-01-01,false
+kommune,2003,Vadsø,20,Finnmarkens amt,1838-01-01,2020-01-01,false
+kommune,2004,Hammerfest,20,Finnmark,1992-01-01,2019-01-01,false
+kommune,2004,Hammerfest,20,Finnmark,2019-01-01,2020-01-01,false
+kommune,2011,Kautokeino,20,Finnmarkens amt,1851-01-01,1988-01-01,false
+kommune,2011,Guovdageaidnu,20,Finnmark,1988-01-01,2020-01-01,false
+kommune,2012,Alten-Talvik,20,Finnmarkens amt,1838-01-01,1863-01-01,false
+kommune,2012,Alta,20,Finnmarkens amt,1863-01-01,2020-01-01,false
+kommune,2013,Talvik,20,Finnmarkens amt,1863-01-01,1964-01-01,false
+kommune,2014,Loppa,20,Finnmarkens amt,1838-01-01,2020-01-01,false
+kommune,2015,Hasvik,20,Finnmarkens amt,1853-01-01,2020-01-01,false
+kommune,2016,Hammerfest landdistrikt,20,Finnmarkens amt,1852-01-01,1870-01-01,false
+kommune,2016,Sørøysund,20,Finnmarkens amt,1870-01-01,1992-01-01,false
+kommune,2017,Kvalsund,20,Finnmarkens amt,1870-01-01,2020-01-01,false
+kommune,2018,Måsøy,20,Finnmarkens amt,1839-01-01,2020-01-01,false
+kommune,2019,Kjelvik,20,Finnmarkens amt,1861-01-01,1950-01-01,false
+kommune,2019,Nordkapp,20,Finnmark,1950-01-01,2020-01-01,false
+kommune,2020,Kistrand,20,Finnmarkens amt,1838-01-01,1964-01-01,false
+kommune,2020,Porsanger,20,Finnmark,1964-01-01,2004-01-01,false
+kommune,2020,Porsanger,20,Finnmark,2004-01-01,2020-01-01,false
+kommune,2021,Karasjok,20,Finnmarkens amt,1866-01-01,1991-01-01,false
+kommune,2021,Kárášjohka,20,Finnmark,1991-01-01,2020-01-01,false
+kommune,2022,Lebesby,20,Finnmarkens amt,1838-01-01,2020-01-01,false
+kommune,2023,Gamvik,20,Finnmarkens amt,1914-01-01,2020-01-01,false
+kommune,2024,Målselv,20,Finnmarkens amt,1848-01-01,1867-01-01,false
+kommune,2024,Berlevåg,20,Finnmarkens amt,1914-01-01,2020-01-01,false
+kommune,2025,Tana,20,Finnmarkens amt,1864-01-01,1993-01-01,false
+kommune,2025,Deatnu,20,Finnmark,1993-01-01,2020-01-01,false
+kommune,2026,Polmak,20,Finnmarkens amt,1903-01-01,1964-01-01,false
+kommune,2027,Nesseby,20,Finnmarkens amt,1847-01-01,1858-01-01,false
+kommune,2027,Nesseby,20,Finnmarkens amt,1864-01-01,1990-01-01,false
+kommune,2027,Unjárga,20,Finnmark,1990-01-01,2020-01-01,false
+kommune,2028,Vardø landsogn,20,Finnmarkens amt,1869-01-01,1955-01-01,false
+kommune,2028,Båtsfjord,20,Finnmark,1955-01-01,2020-01-01,false
+kommune,2029,Nord-Varanger,20,Finnmarkens amt,1894-01-01,1964-01-01,false
+kommune,2030,Sør-Varanger,20,Finnmarkens amt,1859-01-01,2020-01-01,false
+kommune,2031,Lenvik,20,Finnmarkens amt,1838-01-01,1867-01-01,false
+kommune,2032,Hillesøy,20,Finnmarkens amt,1855-01-01,1867-01-01,false
+kommune,2033,Balsfjord,20,Finnmarkens amt,1860-01-01,1867-01-01,false
+kommune,2034,Tromsøysund,20,Finnmarkens amt,1838-01-01,1867-01-01,false
+kommune,2035,Tromsø,20,Finnmarkens amt,1838-01-01,1867-01-01,false
+kommune,2037,Bardu,20,Finnmarkens amt,1854-01-01,1867-01-01,false
+kommune,2038,Lyngen,20,Finnmarkens amt,1838-01-01,1867-01-01,false
+kommune,2039,Ibestad,20,Finnmarkens amt,1838-01-01,1867-01-01,false
+kommune,2041,Skjervøy,20,Finnmarkens amt,1838-01-01,1867-01-01,false
+kommune,2043,Kvænangen,20,Finnmarkens amt,1863-01-01,1867-01-01,false
+kommune,2045,Kvæfjord,20,Finnmarkens amt,1838-01-01,1867-01-01,false
+kommune,2047,Trondenes,20,Finnmarkens amt,1838-01-01,1867-01-01,false
+kommune,2049,Sand (Troms),20,Finnmarkens amt,1838-01-01,1867-01-01,false
+kommune,2051,Tranøy,20,Finnmarkens amt,1838-01-01,1867-01-01,false
+kommune,2053,Berg (Troms),20,Finnmarkens amt,1838-01-01,1867-01-01,false
+kommune,2055,Karlsøy,20,Finnmarkens amt,1838-01-01,1867-01-01,false
+kommune,3001,Halden,30,Viken,2020-01-01,2024-01-01,false
+kommune,3002,Moss,30,Viken,2020-01-01,2024-01-01,false
+kommune,3003,Sarpsborg,30,Viken,2020-01-01,2024-01-01,false
+kommune,3004,Fredrikstad,30,Viken,2020-01-01,2024-01-01,false
+kommune,3005,Drammen,30,Viken,2020-01-01,2024-01-01,false
+kommune,3006,Kongsberg,30,Viken,2020-01-01,2024-01-01,false
+kommune,3007,Ringerike,30,Viken,2020-01-01,2024-01-01,false
+kommune,3011,Hvaler,30,Viken,2020-01-01,2024-01-01,false
+kommune,3012,Aremark,30,Viken,2020-01-01,2024-01-01,false
+kommune,3013,Marker,30,Viken,2020-01-01,2024-01-01,false
+kommune,3014,Indre Østfold,30,Viken,2020-01-01,2024-01-01,false
+kommune,3015,Skiptvet,30,Viken,2020-01-01,2024-01-01,false
+kommune,3016,Rakkestad,30,Viken,2020-01-01,2024-01-01,false
+kommune,3017,Råde,30,Viken,2020-01-01,2024-01-01,false
+kommune,3018,Våler (Viken),30,Viken,2020-01-01,2024-01-01,false
+kommune,3019,Vestby,30,Viken,2020-01-01,2024-01-01,false
+kommune,3020,Nordre Follo,30,Viken,2020-01-01,2024-01-01,false
+kommune,3021,Ås,30,Viken,2020-01-01,2024-01-01,false
+kommune,3022,Frogn,30,Viken,2020-01-01,2024-01-01,false
+kommune,3023,Nesodden,30,Viken,2020-01-01,2024-01-01,false
+kommune,3024,Bærum,30,Viken,2020-01-01,2024-01-01,false
+kommune,3025,Asker,30,Viken,2020-01-01,2024-01-01,false
+kommune,3026,Aurskog-Høland,30,Viken,2020-01-01,2024-01-01,false
+kommune,3027,Rælingen,30,Viken,2020-01-01,2024-01-01,false
+kommune,3028,Enebakk,30,Viken,2020-01-01,2024-01-01,false
+kommune,3029,Lørenskog,30,Viken,2020-01-01,2024-01-01,false
+kommune,3030,Lillestrøm,30,Viken,2020-01-01,2024-01-01,false
+kommune,3031,Nittedal,30,Viken,2020-01-01,2024-01-01,false
+kommune,3032,Gjerdrum,30,Viken,2020-01-01,2024-01-01,false
+kommune,3033,Ullensaker,30,Viken,2020-01-01,2024-01-01,false
+kommune,3034,Nes,30,Viken,2020-01-01,2024-01-01,false
+kommune,3035,Eidsvoll,30,Viken,2020-01-01,2024-01-01,false
+kommune,3036,Nannestad,30,Viken,2020-01-01,2024-01-01,false
+kommune,3037,Hurdal,30,Viken,2020-01-01,2024-01-01,false
+kommune,3038,Hole,30,Viken,2020-01-01,2024-01-01,false
+kommune,3039,Flå,30,Viken,2020-01-01,2024-01-01,false
+kommune,3040,Nesbyen,30,Viken,2020-01-01,2024-01-01,false
+kommune,3041,Gol,30,Viken,2020-01-01,2024-01-01,false
+kommune,3042,Hemsedal,30,Viken,2020-01-01,2024-01-01,false
+kommune,3043,Ål,30,Viken,2020-01-01,2024-01-01,false
+kommune,3044,Hol,30,Viken,2020-01-01,2024-01-01,false
+kommune,3045,Sigdal,30,Viken,2020-01-01,2024-01-01,false
+kommune,3046,Krødsherad,30,Viken,2020-01-01,2024-01-01,false
+kommune,3047,Modum,30,Viken,2020-01-01,2024-01-01,false
+kommune,3048,Øvre Eiker,30,Viken,2020-01-01,2024-01-01,false
+kommune,3049,Lier,30,Viken,2020-01-01,2024-01-01,false
+kommune,3050,Flesberg,30,Viken,2020-01-01,2024-01-01,false
+kommune,3051,Rollag,30,Viken,2020-01-01,2024-01-01,false
+kommune,3052,Nore og Uvdal,30,Viken,2020-01-01,2024-01-01,false
+kommune,3053,Jevnaker,30,Viken,2020-01-01,2024-01-01,false
+kommune,3054,Lunner,30,Viken,2020-01-01,2024-01-01,false
+kommune,3101,Halden,31,Østfold,2024-01-01,,true
+kommune,3103,Moss,31,Østfold,2024-01-01,,true
+kommune,3105,Sarpsborg,31,Østfold,2024-01-01,,true
+kommune,3107,Fredrikstad,31,Østfold,2024-01-01,,true
+kommune,3110,Hvaler,31,Østfold,2024-01-01,,true
+kommune,3112,Råde,31,Østfold,2024-01-01,,true
+kommune,3114,Våler (Østfold),31,Østfold,2024-01-01,,true
+kommune,3116,Skiptvet,31,Østfold,2024-01-01,,true
+kommune,3118,Indre Østfold,31,Østfold,2024-01-01,,true
+kommune,3120,Rakkestad,31,Østfold,2024-01-01,,true
+kommune,3122,Marker,31,Østfold,2024-01-01,,true
+kommune,3124,Aremark,31,Østfold,2024-01-01,,true
+kommune,3201,Bærum,32,Akershus,2024-01-01,,true
+kommune,3203,Asker,32,Akershus,2024-01-01,,true
+kommune,3205,Lillestrøm,32,Akershus,2024-01-01,,true
+kommune,3207,Nordre Follo,32,Akershus,2024-01-01,,true
+kommune,3209,Ullensaker,32,Akershus,2024-01-01,,true
+kommune,3212,Nesodden,32,Akershus,2024-01-01,,true
+kommune,3214,Frogn,32,Akershus,2024-01-01,,true
+kommune,3216,Vestby,32,Akershus,2024-01-01,,true
+kommune,3218,Ås,32,Akershus,2024-01-01,,true
+kommune,3220,Enebakk,32,Akershus,2024-01-01,,true
+kommune,3222,Lørenskog,32,Akershus,2024-01-01,,true
+kommune,3224,Rælingen,32,Akershus,2024-01-01,,true
+kommune,3226,Aurskog-Høland,32,Akershus,2024-01-01,,true
+kommune,3228,Nes,32,Akershus,2024-01-01,,true
+kommune,3230,Gjerdrum,32,Akershus,2024-01-01,,true
+kommune,3232,Nittedal,32,Akershus,2024-01-01,,true
+kommune,3234,Lunner,32,Akershus,2024-01-01,,true
+kommune,3236,Jevnaker,32,Akershus,2024-01-01,,true
+kommune,3238,Nannestad,32,Akershus,2024-01-01,,true
+kommune,3240,Eidsvoll,32,Akershus,2024-01-01,,true
+kommune,3242,Hurdal,32,Akershus,2024-01-01,,true
+kommune,3301,Drammen,33,Buskerud,2024-01-01,,true
+kommune,3303,Kongsberg,33,Buskerud,2024-01-01,,true
+kommune,3305,Ringerike,33,Buskerud,2024-01-01,,true
+kommune,3310,Hole,33,Buskerud,2024-01-01,,true
+kommune,3312,Lier,33,Buskerud,2024-01-01,,true
+kommune,3314,Øvre Eiker,33,Buskerud,2024-01-01,,true
+kommune,3316,Modum,33,Buskerud,2024-01-01,,true
+kommune,3318,Krødsherad,33,Buskerud,2024-01-01,,true
+kommune,3320,Flå,33,Buskerud,2024-01-01,,true
+kommune,3322,Nesbyen,33,Buskerud,2024-01-01,,true
+kommune,3324,Gol,33,Buskerud,2024-01-01,,true
+kommune,3326,Hemsedal,33,Buskerud,2024-01-01,,true
+kommune,3328,Ål,33,Buskerud,2024-01-01,,true
+kommune,3330,Hol,33,Buskerud,2024-01-01,,true
+kommune,3332,Sigdal,33,Buskerud,2024-01-01,,true
+kommune,3334,Flesberg,33,Buskerud,2024-01-01,,true
+kommune,3336,Rollag,33,Buskerud,2024-01-01,,true
+kommune,3338,Nore og Uvdal,33,Buskerud,2024-01-01,,true
+kommune,3401,Kongsvinger,34,Innlandet,2020-01-01,,true
+kommune,3403,Hamar,34,Innlandet,2020-01-01,,true
+kommune,3405,Lillehammer,34,Innlandet,2020-01-01,,true
+kommune,3407,Gjøvik,34,Innlandet,2020-01-01,,true
+kommune,3411,Ringsaker,34,Innlandet,2020-01-01,,true
+kommune,3412,Løten,34,Innlandet,2020-01-01,,true
+kommune,3413,Stange,34,Innlandet,2020-01-01,,true
+kommune,3414,Nord-Odal,34,Innlandet,2020-01-01,,true
+kommune,3415,Sør-Odal,34,Innlandet,2020-01-01,,true
+kommune,3416,Eidskog,34,Innlandet,2020-01-01,,true
+kommune,3417,Grue,34,Innlandet,2020-01-01,,true
+kommune,3418,Åsnes,34,Innlandet,2020-01-01,,true
+kommune,3419,Våler (Innlandet),34,Innlandet,2020-01-01,,true
+kommune,3420,Elverum,34,Innlandet,2020-01-01,,true
+kommune,3421,Trysil,34,Innlandet,2020-01-01,,true
+kommune,3422,Åmot,34,Innlandet,2020-01-01,,true
+kommune,3423,Stor-Elvdal,34,Innlandet,2020-01-01,,true
+kommune,3424,Rendalen,34,Innlandet,2020-01-01,,true
+kommune,3425,Engerdal,34,Innlandet,2020-01-01,,true
+kommune,3426,Tolga,34,Innlandet,2020-01-01,,true
+kommune,3427,Tynset,34,Innlandet,2020-01-01,,true
+kommune,3428,Alvdal,34,Innlandet,2020-01-01,,true
+kommune,3429,Folldal,34,Innlandet,2020-01-01,,true
+kommune,3430,Os,34,Innlandet,2020-01-01,,true
+kommune,3431,Dovre,34,Innlandet,2020-01-01,,true
+kommune,3432,Lesja,34,Innlandet,2020-01-01,,true
+kommune,3433,Skjåk,34,Innlandet,2020-01-01,,true
+kommune,3434,Lom,34,Innlandet,2020-01-01,,true
+kommune,3435,Vågå,34,Innlandet,2020-01-01,,true
+kommune,3436,Nord-Fron,34,Innlandet,2020-01-01,,true
+kommune,3437,Sel,34,Innlandet,2020-01-01,,true
+kommune,3438,Sør-Fron,34,Innlandet,2020-01-01,,true
+kommune,3439,Ringebu,34,Innlandet,2020-01-01,,true
+kommune,3440,Øyer,34,Innlandet,2020-01-01,,true
+kommune,3441,Gausdal,34,Innlandet,2020-01-01,,true
+kommune,3442,Østre Toten,34,Innlandet,2020-01-01,,true
+kommune,3443,Vestre Toten,34,Innlandet,2020-01-01,,true
+kommune,3446,Gran,34,Innlandet,2020-01-01,,true
+kommune,3447,Søndre Land,34,Innlandet,2020-01-01,,true
+kommune,3448,Nordre Land,34,Innlandet,2020-01-01,,true
+kommune,3449,Sør-Aurdal,34,Innlandet,2020-01-01,,true
+kommune,3450,Etnedal,34,Innlandet,2020-01-01,,true
+kommune,3451,Nord-Aurdal,34,Innlandet,2020-01-01,,true
+kommune,3452,Vestre Slidre,34,Innlandet,2020-01-01,,true
+kommune,3453,Øystre Slidre,34,Innlandet,2020-01-01,,true
+kommune,3454,Vang,34,Innlandet,2020-01-01,,true
+kommune,3801,Horten,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3802,Holmestrand,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3803,Tønsberg,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3804,Sandefjord,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3805,Larvik,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3806,Porsgrunn,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3807,Skien,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3808,Notodden,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3811,Færder,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3812,Siljan,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3813,Bamble,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3814,Kragerø,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3815,Drangedal,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3816,Nome,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3817,Midt-Telemark,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3818,Tinn,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3819,Hjartdal,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3820,Seljord,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3821,Kviteseid,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3822,Nissedal,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3823,Fyresdal,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3824,Tokke,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3825,Vinje,38,Vestfold og Telemark,2020-01-01,2024-01-01,false
+kommune,3901,Horten,39,Vestfold,2024-01-01,,true
+kommune,3903,Holmestrand,39,Vestfold,2024-01-01,,true
+kommune,3905,Tønsberg,39,Vestfold,2024-01-01,,true
+kommune,3907,Sandefjord,39,Vestfold,2024-01-01,,true
+kommune,3909,Larvik,39,Vestfold,2024-01-01,,true
+kommune,3911,Færder,39,Vestfold,2024-01-01,,true
+kommune,4001,Porsgrunn,40,Telemark,2024-01-01,,true
+kommune,4003,Skien,40,Telemark,2024-01-01,,true
+kommune,4005,Notodden,40,Telemark,2024-01-01,,true
+kommune,4010,Siljan,40,Telemark,2024-01-01,,true
+kommune,4012,Bamble,40,Telemark,2024-01-01,,true
+kommune,4014,Kragerø,40,Telemark,2024-01-01,,true
+kommune,4016,Drangedal,40,Telemark,2024-01-01,,true
+kommune,4018,Nome,40,Telemark,2024-01-01,,true
+kommune,4020,Midt-Telemark,40,Telemark,2024-01-01,,true
+kommune,4022,Seljord,40,Telemark,2024-01-01,,true
+kommune,4024,Hjartdal,40,Telemark,2024-01-01,,true
+kommune,4026,Tinn,40,Telemark,2024-01-01,,true
+kommune,4028,Kviteseid,40,Telemark,2024-01-01,,true
+kommune,4030,Nissedal,40,Telemark,2024-01-01,,true
+kommune,4032,Fyresdal,40,Telemark,2024-01-01,,true
+kommune,4034,Tokke,40,Telemark,2024-01-01,,true
+kommune,4036,Vinje,40,Telemark,2024-01-01,,true
+kommune,4201,Risør,42,Agder,2020-01-01,,true
+kommune,4202,Grimstad,42,Agder,2020-01-01,,true
+kommune,4203,Arendal,42,Agder,2020-01-01,,true
+kommune,4204,Kristiansand,42,Agder,2020-01-01,,true
+kommune,4205,Lindesnes,42,Agder,2020-01-01,,true
+kommune,4206,Farsund,42,Agder,2020-01-01,,true
+kommune,4207,Flekkefjord,42,Agder,2020-01-01,,true
+kommune,4211,Gjerstad,42,Agder,2020-01-01,,true
+kommune,4212,Vegårshei,42,Agder,2020-01-01,,true
+kommune,4213,Tvedestrand,42,Agder,2020-01-01,,true
+kommune,4214,Froland,42,Agder,2020-01-01,,true
+kommune,4215,Lillesand,42,Agder,2020-01-01,,true
+kommune,4216,Birkenes,42,Agder,2020-01-01,,true
+kommune,4217,Åmli,42,Agder,2020-01-01,,true
+kommune,4218,Iveland,42,Agder,2020-01-01,,true
+kommune,4219,Evje og Hornnes,42,Agder,2020-01-01,,true
+kommune,4220,Bygland,42,Agder,2020-01-01,,true
+kommune,4221,Valle,42,Agder,2020-01-01,,true
+kommune,4222,Bykle,42,Agder,2020-01-01,,true
+kommune,4223,Vennesla,42,Agder,2020-01-01,,true
+kommune,4224,Åseral,42,Agder,2020-01-01,,true
+kommune,4225,Lyngdal,42,Agder,2020-01-01,,true
+kommune,4226,Hægebostad,42,Agder,2020-01-01,,true
+kommune,4227,Kvinesdal,42,Agder,2020-01-01,,true
+kommune,4228,Sirdal,42,Agder,2020-01-01,,true
+kommune,4601,Bergen,46,Vestland,2020-01-01,,true
+kommune,4602,Kinn,46,Vestland,2020-01-01,,true
+kommune,4611,Etne,46,Vestland,2020-01-01,,true
+kommune,4612,Sveio,46,Vestland,2020-01-01,,true
+kommune,4613,Bømlo,46,Vestland,2020-01-01,,true
+kommune,4614,Stord,46,Vestland,2020-01-01,,true
+kommune,4615,Fitjar,46,Vestland,2020-01-01,,true
+kommune,4616,Tysnes,46,Vestland,2020-01-01,,true
+kommune,4617,Kvinnherad,46,Vestland,2020-01-01,,true
+kommune,4618,Ullensvang,46,Vestland,2020-01-01,,true
+kommune,4619,Eidfjord,46,Vestland,2020-01-01,,true
+kommune,4620,Ulvik,46,Vestland,2020-01-01,,true
+kommune,4621,Voss,46,Vestland,2020-01-01,,true
+kommune,4622,Kvam,46,Vestland,2020-01-01,,true
+kommune,4623,Samnanger,46,Vestland,2020-01-01,,true
+kommune,4624,Bjørnafjorden,46,Vestland,2020-01-01,,true
+kommune,4625,Austevoll,46,Vestland,2020-01-01,,true
+kommune,4626,Øygarden,46,Vestland,2020-01-01,,true
+kommune,4627,Askøy,46,Vestland,2020-01-01,,true
+kommune,4628,Vaksdal,46,Vestland,2020-01-01,,true
+kommune,4629,Modalen,46,Vestland,2020-01-01,,true
+kommune,4630,Osterøy,46,Vestland,2020-01-01,,true
+kommune,4631,Alver,46,Vestland,2020-01-01,,true
+kommune,4632,Austrheim,46,Vestland,2020-01-01,,true
+kommune,4633,Fedje,46,Vestland,2020-01-01,,true
+kommune,4634,Masfjorden,46,Vestland,2020-01-01,,true
+kommune,4635,Gulen,46,Vestland,2020-01-01,,true
+kommune,4636,Solund,46,Vestland,2020-01-01,,true
+kommune,4637,Hyllestad,46,Vestland,2020-01-01,,true
+kommune,4638,Høyanger,46,Vestland,2020-01-01,,true
+kommune,4639,Vik,46,Vestland,2020-01-01,,true
+kommune,4640,Sogndal,46,Vestland,2020-01-01,,true
+kommune,4641,Aurland,46,Vestland,2020-01-01,,true
+kommune,4642,Lærdal,46,Vestland,2020-01-01,,true
+kommune,4643,Årdal,46,Vestland,2020-01-01,,true
+kommune,4644,Luster,46,Vestland,2020-01-01,,true
+kommune,4645,Askvoll,46,Vestland,2020-01-01,,true
+kommune,4646,Fjaler,46,Vestland,2020-01-01,,true
+kommune,4647,Sunnfjord,46,Vestland,2020-01-01,,true
+kommune,4648,Bremanger,46,Vestland,2020-01-01,,true
+kommune,4649,Stad,46,Vestland,2020-01-01,,true
+kommune,4650,Gloppen,46,Vestland,2020-01-01,,true
+kommune,4651,Stryn,46,Vestland,2020-01-01,,true
+kommune,5001,Trondheim,50,Trøndelag,2018-01-01,2023-01-01,false
+kommune,5001,Trondheim,50,Trøndelag,2023-01-01,,true
+kommune,5004,Steinkjer,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5005,Namsos,50,Trøndelag,2018-01-01,2019-01-01,false
+kommune,5005,Namsos,50,Trøndelag,2019-01-01,2020-01-01,false
+kommune,5006,Steinkjer,50,Trøndelag,2020-01-01,,true
+kommune,5007,Namsos,50,Trøndelag,2020-01-01,,true
+kommune,5011,Hemne,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5012,Snillfjord,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5013,Hitra,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5014,Frøya,50,Trøndelag,2018-01-01,,true
+kommune,5015,Ørland,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5016,Agdenes,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5017,Bjugn,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5018,Åfjord,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5019,Roan,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5020,Osen,50,Trøndelag,2018-01-01,,true
+kommune,5021,Oppdal,50,Trøndelag,2018-01-01,,true
+kommune,5022,Rennebu,50,Trøndelag,2018-01-01,,true
+kommune,5023,Meldal,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5024,Orkdal,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5025,Røros,50,Trøndelag,2018-01-01,2023-01-01,false
+kommune,5025,Røros,50,Trøndelag,2023-01-01,,true
+kommune,5026,Holtålen,50,Trøndelag,2018-01-01,,true
+kommune,5027,Midtre Gauldal,50,Trøndelag,2018-01-01,,true
+kommune,5028,Melhus,50,Trøndelag,2018-01-01,,true
+kommune,5029,Skaun,50,Trøndelag,2018-01-01,,true
+kommune,5030,Klæbu,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5031,Malvik,50,Trøndelag,2018-01-01,,true
+kommune,5032,Selbu,50,Trøndelag,2018-01-01,,true
+kommune,5033,Tydal,50,Trøndelag,2018-01-01,,true
+kommune,5034,Meråker,50,Trøndelag,2018-01-01,,true
+kommune,5035,Stjørdal,50,Trøndelag,2018-01-01,,true
+kommune,5036,Frosta,50,Trøndelag,2018-01-01,,true
+kommune,5037,Levanger,50,Trøndelag,2018-01-01,2024-01-01,false
+kommune,5037,Levanger,50,Trøndelag,2024-01-01,,true
+kommune,5038,Verdal,50,Trøndelag,2018-01-01,,true
+kommune,5039,Verran,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5040,Namdalseid,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5041,Snåase,50,Trøndelag,2018-01-01,,true
+kommune,5042,Lierne,50,Trøndelag,2018-01-01,,true
+kommune,5043,Raarvihke,50,Trøndelag,2018-01-01,,true
+kommune,5044,Namsskogan,50,Trøndelag,2018-01-01,,true
+kommune,5045,Grong,50,Trøndelag,2018-01-01,,true
+kommune,5046,Høylandet,50,Trøndelag,2018-01-01,,true
+kommune,5047,Overhalla,50,Trøndelag,2018-01-01,,true
+kommune,5048,Fosnes,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5049,Flatanger,50,Trøndelag,2018-01-01,,true
+kommune,5050,Vikna,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5051,Nærøy,50,Trøndelag,2018-01-01,2020-01-01,false
+kommune,5052,Leka,50,Trøndelag,2018-01-01,,true
+kommune,5053,Inderøy,50,Trøndelag,2018-01-01,,true
+kommune,5054,Indre Fosen,50,Trøndelag,2018-01-01,,true
+kommune,5055,Heim,50,Trøndelag,2020-01-01,,true
+kommune,5056,Hitra,50,Trøndelag,2020-01-01,,true
+kommune,5057,Ørland,50,Trøndelag,2020-01-01,,true
+kommune,5058,Åfjord,50,Trøndelag,2020-01-01,,true
+kommune,5059,Orkland,50,Trøndelag,2020-01-01,,true
+kommune,5060,Nærøysund,50,Trøndelag,2020-01-01,,true
+kommune,5061,Rindal,50,Trøndelag,2019-01-01,,true
+kommune,5401,Tromsø,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5402,Harstad,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5403,Alta,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5404,Vardø,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5405,Vadsø,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5406,Hammerfest,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5411,Kvæfjord,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5412,Dielddanuorri,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5413,Ibestad,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5414,Gratangen,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5415,Loabák,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5416,Bardu,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5417,Salangen,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5418,Målselv,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5419,Sørreisa,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5420,Dyrøy,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5421,Senja,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5422,Balsfjord,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5423,Karlsøy,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5424,Lyngen,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5425,Storfjord,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5426,Gáivuotna,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5427,Skjervøy,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5428,Nordreisa,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5429,Kvænangen,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5430,Guovdageaidnu,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5432,Loppa,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5433,Hasvik,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5434,Måsøy,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5435,Nordkapp,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5436,Porsanger,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5437,Kárášjohka,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5438,Lebesby,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5439,Gamvik,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5440,Berlevåg,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5441,Deatnu,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5442,Unjárga,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5443,Båtsfjord,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5444,Sør-Varanger,54,Troms og Finnmark,2020-01-01,2024-01-01,false
+kommune,5501,Tromsø,55,Troms,2024-01-01,,true
+kommune,5503,Harstad,55,Troms,2024-01-01,,true
+kommune,5510,Kvæfjord,55,Troms,2024-01-01,,true
+kommune,5512,Dielddanuorri,55,Troms,2024-01-01,,true
+kommune,5514,Ibestad,55,Troms,2024-01-01,,true
+kommune,5516,Gratangen,55,Troms,2024-01-01,,true
+kommune,5518,Loabák,55,Troms,2024-01-01,,true
+kommune,5520,Bardu,55,Troms,2024-01-01,,true
+kommune,5522,Salangen,55,Troms,2024-01-01,,true
+kommune,5524,Målselv,55,Troms,2024-01-01,,true
+kommune,5526,Sørreisa,55,Troms,2024-01-01,,true
+kommune,5528,Dyrøy,55,Troms,2024-01-01,,true
+kommune,5530,Senja,55,Troms,2024-01-01,,true
+kommune,5532,Balsfjord,55,Troms,2024-01-01,,true
+kommune,5534,Karlsøy,55,Troms,2024-01-01,,true
+kommune,5536,Lyngen,55,Troms,2024-01-01,,true
+kommune,5538,Storfjord,55,Troms,2024-01-01,,true
+kommune,5540,Gáivuotna,55,Troms,2024-01-01,,true
+kommune,5542,Skjervøy,55,Troms,2024-01-01,,true
+kommune,5544,Nordreisa,55,Troms,2024-01-01,,true
+kommune,5546,Kvænangen,55,Troms,2024-01-01,,true
+kommune,5601,Alta,56,Finnmark,2024-01-01,,true
+kommune,5603,Hammerfest,56,Finnmark,2024-01-01,,true
+kommune,5605,Sør-Varanger,56,Finnmark,2024-01-01,,true
+kommune,5607,Vadsø,56,Finnmark,2024-01-01,,true
+kommune,5610,Kárášjohka,56,Finnmark,2024-01-01,,true
+kommune,5612,Guovdageaidnu,56,Finnmark,2024-01-01,,true
+kommune,5614,Loppa,56,Finnmark,2024-01-01,,true
+kommune,5616,Hasvik,56,Finnmark,2024-01-01,,true
+kommune,5618,Måsøy,56,Finnmark,2024-01-01,,true
+kommune,5620,Nordkapp,56,Finnmark,2024-01-01,,true
+kommune,5622,Porsanger,56,Finnmark,2024-01-01,,true
+kommune,5624,Lebesby,56,Finnmark,2024-01-01,,true
+kommune,5626,Gamvik,56,Finnmark,2024-01-01,,true
+kommune,5628,Deatnu,56,Finnmark,2024-01-01,,true
+kommune,5630,Berlevåg,56,Finnmark,2024-01-01,,true
+kommune,5632,Båtsfjord,56,Finnmark,2024-01-01,,true
+kommune,5634,Vardø,56,Finnmark,2024-01-01,,true
+kommune,5636,Unjárga,56,Finnmark,2024-01-01,,true

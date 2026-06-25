@@ -10,7 +10,8 @@ __pycache__/
 env/
 build/
 develop-eggs/
-dist/
+!/data/dist/*
+/dist/
 downloads/
 eggs/
 .eggs/
@@ -84,4 +85,3 @@ target/
 
 # Mypy cache
 .mypy_cache/
-
