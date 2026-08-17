@@ -1,4 +1,4 @@
-# Bord4 data
+![Header](./docs/assets/github-header-banner-bord4-data.png)
 
 Kuraterte datasett fra Bord4/BT som er nyttige på tvers av analyser eller som bør kunne deles med lesere.
 
