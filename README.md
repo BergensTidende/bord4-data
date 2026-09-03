@@ -75,19 +75,32 @@ Maskinlesbare overganger mellom norske kommuner og fylker.
 | --- | --- | --- |
 | [`data/dist/norwegian_region_transitions.csv`](data/dist/norwegian_region_transitions.csv) | CSV | Flat overgangstabell, én rad per kant fra gammel til ny regionkode. |
 | [`data/dist/norwegian_region_transitions.json`](data/dist/norwegian_region_transitions.json) | JSON | Samme innhold som CSV, egnet for Node/JavaScript. |
-| [`data/raw/region-transitions/`](data/raw/region-transitions/) | JSON | Rå overgangsmappinger som dist-filene bygges fra. |
+| [`data/raw/region-transitions/subdistrict_adjustments.csv`](data/raw/region-transitions/subdistrict_adjustments.csv) | CSV | Kuraterte grensejusteringer som deler en grunnkrets, og derfor ikke finnes som en hel grunnkretskant i Klass. |
 
 Kolonner i CSV:
 
 | Kolonne | Beskrivelse |
 | --- | --- |
+| `effective_date` | Dato overgangen trådte i kraft. |
 | `from_year` | Året gammel kode representerer. |
 | `to_year` | Året ny kode representerer. |
 | `level` | `county` eller `municipality`. |
 | `from_id` | Gammel SSB-regionkode. |
 | `to_id` | Ny SSB-regionkode. |
-| `change_type` | `renumbered`, `merge`, `split` eller `boundary_change`. |
-| `source_file` | Råfilen raden er bygget fra. |
+| `change_type` | `renumbered`, `merge`, `split`, `boundary_change` eller `boundary_adjustment`. |
+| `mapping_quality` | `safe_merge`, `split_merge` eller `boundary_adjustment`. |
+| `safe_to_aggregate` | `true` når hele den gamle regionen går entydig til én ny region. |
+| `event_id` | Felles id for alle kanter i samme sammenhengende endringshendelse. |
+| `source_file` | Klass-klassifikasjonen eller den kuraterte råfilen raden er bygget fra. |
+| `source_url` | Direkte lenke til kilden. |
+| `note` | Merknad om avledning eller kuratert endring, når relevant. |
+
+`boundary_adjustment` er en informasjonskant: bare deler av kommunen flyttet, mens
+gammel kommune fortsatte. Den skal ikke følges som etterfølger for hele kommunen.
+`split_merge` betyr at den gamle regionen har flere mål, slik at direkte mapping
+er tvetydig. Dette gjelder for eksempel begge kantene fra Vågsøy til Kinn og Stad.
+Andre kommuner i samme reformhendelse merkes fortsatt `safe_merge` dersom hele
+den aktuelle kommunen går entydig til ett mål.
 
 Eksempel:
 
@@ -113,18 +126,15 @@ Hver mappe bør inneholde:
 
 ## Oppdatere regionoverganger
 
-Rå overgangsfiler legges i `data/raw/region-transitions/` som JSON:
+Byggescriptet henter kommuneendringer (Klass 131), fylkesendringer (Klass 104)
+og grunnkretsendringer (Klass 1) fra SSB fra og med 2000. Grunnkretsene brukes
+til å avdekke delinger og grensejusteringer som en ren kommunetabell skjuler.
 
-```json
-["2024", "2025", {
-  "31": ["30"]
-}]
-```
-
-To former støttes:
-
-- `{"gammel_kode": "ny_kode"}` for enkle renummereringer og sammenslåinger
-- `{"ny_kode": ["gammel_kode"]}` for splittinger
+Når en offisiell kilde beskriver en arealoverføring som ikke finnes i Klass-endepunktet, legges kanten i
+`data/raw/region-transitions/subdistrict_adjustments.csv` med kildelenke og
+forklaring. Dette omfatter også enkelte grensejusteringer som trådte i kraft
+midt i året. De eldre JSON-snapshottene i samme mappe er beholdt som historisk
+arbeidsmateriale, men brukes ikke av byggeren.
 
 Bygg dist-filene:
 
@@ -136,6 +146,13 @@ eller:
 
 ```bash
 python3 scripts/build_region_transitions.py
+```
+
+Kontroller at alle kommunekoder som har vært gyldige siden 2000 kan spores til
+minst én gjeldende kommune:
+
+```bash
+python3 scripts/validate_region_transitions.py
 ```
 
 Kommunetabellen bygges fra SSB Klass:
@@ -152,8 +169,13 @@ python3 scripts/build_regions_history.py
 
 ## Kilder
 
-- SSB Klass brukes som autoritativ kilde for kommune- og fylkeskoder.
-- Kartverket og valgrelaterte arbeidsfiler brukes som grunnlag for historiske overganger der SSB/Kartverket ikke gir én analyseferdig overgangstabell.
+- [SSB Klass 131](https://www.ssb.no/klass/klassifikasjoner/131) brukes for kommuneendringer.
+- [SSB Klass 104](https://www.ssb.no/klass/klassifikasjoner/104) brukes for fylkesendringer.
+- [SSB Klass 1](https://www.ssb.no/klass/klassifikasjoner/1) brukes for endringer i hele grunnkretser.
+- SSBs [«Alle endringer i de regionale inndelingene»](https://www.ssb.no/metadata/alle-endringer-i-de-regionale-inndelingene)
+  brukes for dokumenterte overføringer av deler av grunnkretser.
+- Kommunal- og distriktsdepartementets [oversikt over grensejusteringer](https://www.regjeringen.no/no/tema/kommuner-og-regioner/kommunestruktur/Verktoy/justeringer-av-kommunegrenser/id2571217/)
+  brukes for vedtatte justeringer som ikke finnes i Klass-endepunktet.
 
 ## Lisens
 
