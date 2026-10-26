@@ -7,15 +7,20 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
+      - name: Update CA certificates
+        run: |
+          sudo apt-get update
+          sudo apt-get install --only-upgrade --yes ca-certificates
+
       - uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.14.10"
 
       - name: Build data
         run: make data
